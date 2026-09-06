@@ -106,9 +106,7 @@
           "code": "C1T2L06",
           "instructor": "Bharadwaj",
           "mandatory": false,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
-          ]
+          "tags": []
         }
       ]
     },
@@ -120,9 +118,7 @@
           "code": "C1T2L07",
           "instructor": "Bharadwaj",
           "mandatory": false,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
-          ]
+          "tags": []
         },
         {
           "label": "Prelab: Forearm and Hand",
@@ -218,10 +214,7 @@
           "code": "C1T2L15",
           "instructor": "Wiranowska",
           "mandatory": false,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
-          ]
+          "tags": []
         }
       ]
     },
@@ -274,10 +267,7 @@
           "code": "",
           "instructor": "Bharadwaj",
           "mandatory": true,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
-          ]
+          "tags": []
         }
       ]
     },
