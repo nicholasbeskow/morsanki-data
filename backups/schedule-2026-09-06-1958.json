@@ -338,9 +338,10 @@
           "code": "",
           "instructor": "",
           "optional_unlock": true,
+          "note": "Download the deck first",
           "links": [
             {
-              "label": "Download deck here first",
+              "label": "Mock practical deck (Box)",
               "url": "https://usf.app.box.com/s/w6ebm0j89wvvx98z4onz48osc8ruo60f"
             }
           ],
