@@ -33,6 +33,7 @@
           "label": "Cytoskeleton & Cellular Substructures",
           "code": "C1T2L01",
           "instructor": "Wiranowska",
+          "mandatory": false,
           "cards": 135,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L04_Cytoskeleton&Cellular_Substructures"
@@ -42,6 +43,7 @@
           "label": "Extracellular Matrix",
           "code": "C1T2L02",
           "instructor": "Wiranowska",
+          "mandatory": false,
           "cards": 107,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L07_ECM"
@@ -51,6 +53,7 @@
           "label": "Prelab: Axilla",
           "code": "C1T2L03",
           "instructor": "Bharadwaj",
+          "mandatory": false,
           "cards": 130,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::PreLab3_Axilla"
@@ -65,6 +68,7 @@
           "label": "Connective & Epithelial Tissue",
           "code": "C1T2L04",
           "instructor": "Wiranowska",
+          "mandatory": false,
           "cards": 159,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L08_Epithelial_Tissue",
@@ -75,6 +79,7 @@
           "label": "Anatomy Lab 3 — Axilla",
           "code": "",
           "instructor": "Bharadwaj",
+          "mandatory": true,
           "cards": 223,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
@@ -90,6 +95,7 @@
           "label": "Early Embryology I",
           "code": "C1T2L05",
           "instructor": "Bharadwaj",
+          "mandatory": false,
           "cards": 169,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
@@ -99,6 +105,7 @@
           "label": "Early Embryology II",
           "code": "C1T2L06",
           "instructor": "Bharadwaj",
+          "mandatory": false,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
           ]
@@ -112,6 +119,7 @@
           "label": "Early Embryology III",
           "code": "C1T2L07",
           "instructor": "Bharadwaj",
+          "mandatory": false,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
           ]
@@ -120,6 +128,7 @@
           "label": "Prelab: Forearm and Hand",
           "code": "C1T2L08",
           "instructor": "Bharadwaj",
+          "mandatory": false,
           "cards": 37,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
@@ -129,6 +138,7 @@
           "label": "Postlab EL: Axilla",
           "code": "C1T2L09",
           "instructor": "Bharadwaj",
+          "mandatory": true,
           "tags": []
         }
       ]
@@ -140,6 +150,7 @@
           "label": "Diffusion, Osmosis, & Transport Proteins",
           "code": "C1T2L10",
           "instructor": "Dominguez Rieg",
+          "mandatory": false,
           "cards": 64,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L03_Diffusion_Osmosis_Transport_Proteins"
@@ -149,6 +160,7 @@
           "label": "Bone & Cartilage",
           "code": "C1T2L11",
           "instructor": "Wiranowska",
+          "mandatory": false,
           "cards": 204,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
@@ -159,6 +171,7 @@
           "label": "Lab – Anterior Forearm & Hand",
           "code": "",
           "instructor": "Bharadwaj",
+          "mandatory": true,
           "cards": 527,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
@@ -174,6 +187,7 @@
           "label": "Concepts of Diagnosis & Pathology",
           "code": "C1T2L12",
           "instructor": "Kruk",
+          "mandatory": false,
           "cards": 40,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L20_Cancer_Dx&Path"
@@ -183,6 +197,7 @@
           "label": "EL – Breast & Ovarian Cancer, BRCA mutations",
           "code": "C1T2L13",
           "instructor": "Kruk",
+          "mandatory": true,
           "cards": 60,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L17_Breast&Ovarian_Cancer"
@@ -192,6 +207,7 @@
           "label": "EL – Lung Cancer",
           "code": "C1T2L14",
           "instructor": "Davé",
+          "mandatory": true,
           "cards": 106,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L05_Lung_Cancer_EL"
@@ -201,6 +217,7 @@
           "label": "Bone & Cartilage",
           "code": "C1T2L15",
           "instructor": "Wiranowska",
+          "mandatory": false,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
@@ -215,6 +232,7 @@
           "label": "Skin",
           "code": "C1T2L16",
           "instructor": "Wiranowska",
+          "mandatory": false,
           "cards": 149,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_Skin"
@@ -224,6 +242,7 @@
           "label": "Foundations in Cutaneous Pathology",
           "code": "C1T2L17",
           "instructor": "Albers",
+          "mandatory": false,
           "cards": 151,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Cutaneous_Oncology",
@@ -234,6 +253,7 @@
           "label": "EL – Melanoma",
           "code": "C1T2L18",
           "instructor": "Bharadwaj & Albers",
+          "mandatory": true,
           "cards": 78,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Melanoma_EL"
@@ -243,6 +263,7 @@
           "label": "Musculoskeletal System",
           "code": "C1T2L19",
           "instructor": "Bharadwaj",
+          "mandatory": false,
           "cards": 93,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_MSK_Embryo"
@@ -252,6 +273,7 @@
           "label": "Lab – Posterior Forearm & Hand",
           "code": "",
           "instructor": "Bharadwaj",
+          "mandatory": true,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
@@ -266,6 +288,7 @@
           "label": "Skeletal Muscle",
           "code": "C1T2L20",
           "instructor": "Wiranowska",
+          "mandatory": false,
           "cards": 153,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L02_Muscle_Histo"
@@ -280,18 +303,21 @@
           "label": "EL – Nerve Injuries of Upper Limb",
           "code": "C1T2L21",
           "instructor": "Kothari",
+          "mandatory": true,
           "tags": []
         },
         {
           "label": "Elbow & Wrist Joint",
           "code": "C1T2L22",
           "instructor": "Riveros",
+          "mandatory": false,
           "tags": []
         },
         {
           "label": "Membrane Potential & Ion Channels",
           "code": "C1T2L23",
           "instructor": "Noujaim",
+          "mandatory": true,
           "cards": 38,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L17_Membrane_Potentials&Ion_Channels"
@@ -306,6 +332,7 @@
           "label": "Electrical Signaling",
           "code": "C1T2L24",
           "instructor": "Noujaim",
+          "mandatory": true,
           "cards": 24,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L18_Electrical_Signaling"
@@ -315,6 +342,7 @@
           "label": "Skeletal Muscle",
           "code": "C1T2L25",
           "instructor": "Scallan",
+          "mandatory": true,
           "cards": 111,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L03_Skeletal_Muscle_Physio"
@@ -324,6 +352,7 @@
           "label": "Excitation-Contraction Coupling",
           "code": "C1T2L26",
           "instructor": "Scallan",
+          "mandatory": true,
           "cards": 57,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L04_Excitation_Contraction_Coupling"
@@ -333,18 +362,10 @@
           "label": "MOCK ANATOMY PRACTICAL",
           "code": "",
           "instructor": "",
-          "optional_unlock": true,
-          "note": "Download the deck first — the unlock finds nothing until you do.",
-          "links": [
-            {
-              "label": "Mock practical deck (Box)",
-              "url": "https://usf.app.box.com/s/w6ebm0j89wvvx98z4onz48osc8ruo60f"
-            }
-          ],
+          "mandatory": false,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Cadaver&Bones",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Radiology",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Mock_Practical_co30"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Radiology"
           ]
         }
       ]
@@ -356,6 +377,7 @@
           "label": "Postlab EL – Forearm & Hand",
           "code": "C1T2L27",
           "instructor": "Bharadwaj",
+          "mandatory": true,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
@@ -365,12 +387,14 @@
           "label": "EL – Musculoskeletal System",
           "code": "C1T2L28",
           "instructor": "Bharadwaj",
+          "mandatory": true,
           "tags": []
         },
         {
           "label": "Neuromuscular Junction",
           "code": "C1T2L29",
           "instructor": "Crofton",
+          "mandatory": false,
           "tags": []
         }
       ]
