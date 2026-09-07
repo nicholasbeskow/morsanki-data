@@ -258,42 +258,12 @@
           ]
         },
         {
-          "label": "C1T2L18 (UPDATED)",
-          "code": "",
-          "instructor": "",
-          "optional_unlock": true,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/v65h8i5hlns8k6jykhx9zr3fa3asyhn0"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L18_EL_Melanoma"
-          ]
-        },
-        {
           "label": "Musculoskeletal System",
           "code": "C1T2L19",
           "instructor": "Bharadwaj",
           "cards": 93,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_MSK_Embryo"
-          ]
-        },
-        {
-          "label": "C1T2L19 (UPDATED)",
-          "code": "",
-          "instructor": "",
-          "optional_unlock": true,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/ycugxeeuk4ey3jy3r5w151s0ovk63fwr"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L19_MSK_Embryology"
           ]
         },
         {
