@@ -96,42 +96,12 @@
           ]
         },
         {
-          "label": "C1T2L05 (UPDATED)",
-          "code": "",
-          "instructor": "",
-          "optional_unlock": true,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/c6ov4lhqwjey369soelg7xm03htr5mza"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L05_Early_Embryology_I&II"
-          ]
-        },
-        {
           "label": "Early Embryology II",
           "code": "C1T2L06",
           "instructor": "Bharadwaj",
           "note": "Same cards as the lecture above",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
-          ]
-        },
-        {
-          "label": "C1T2L06 (UPDATED)",
-          "code": "",
-          "instructor": "",
-          "optional_unlock": true,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/df5t4i4m3ycaijlqvk6taqs88am8u0yx"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L06_Early_Embryology_III"
           ]
         }
       ]
