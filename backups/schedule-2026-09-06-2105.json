@@ -191,21 +191,6 @@
           ]
         },
         {
-          "label": "Updated deck by Nick",
-          "code": "C1T2L13 (UPDATED)",
-          "instructor": "",
-          "optional_unlock": true,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/wz04gohhz8syhcqaba8vb3yqgxad9x0v"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L13_EL_Breast&Ovarian_Cancer"
-          ]
-        },
-        {
           "label": "EL – Lung Cancer",
           "code": "C1T2L14",
           "instructor": "Davé",
