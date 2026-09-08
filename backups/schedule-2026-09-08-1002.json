@@ -401,16 +401,7 @@
           "label": "Elbow & Wrist Joint",
           "code": "C1T2L22",
           "instructor": "Riveros",
-          "cards": 100,
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/yi1sqcbpdyq5pe585ukxmwrr66grfnnd"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L22_Elbow&Wrist_Joint"
-          ]
+          "tags": []
         },
         {
           "label": "Membrane Potential & Ion Channels",
