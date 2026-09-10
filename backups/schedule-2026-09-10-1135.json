@@ -538,18 +538,8 @@
           "label": "Neuromuscular Junction",
           "code": "C1T2L29",
           "instructor": "Crofton",
-          "cards": 147,
-          "note": "AnKing cards included",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/3vsb70501ffnvn44mb6crs5ftmyxgg2r"
-            }
-          ],
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48007113",
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L29_Neuromuscular_Junction"
-          ]
+          "tags": []
         }
       ]
     }
