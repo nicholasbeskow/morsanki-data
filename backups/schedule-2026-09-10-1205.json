@@ -531,18 +531,8 @@
           "label": "EL – Musculoskeletal System",
           "code": "C1T2L28",
           "instructor": "Bharadwaj",
-          "cards": 18,
-          "note": "Thanks to Anish for additions!",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/a8e77sjwef1pc963fz1xb6a4zw1eavb3"
-            }
-          ],
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689773",
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L28_EL_MSK_Embryology"
-          ]
+          "tags": []
         },
         {
           "label": "Neuromuscular Junction",
