@@ -622,23 +622,6 @@
           ]
         },
         {
-          "label": "C1T3L01 (UPDATED)",
-          "code": "",
-          "instructor": "",
-          "cards": 37,
-          "optional_unlock": true,
-          "note": "AnKing cards (37)",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/46ahgtdpl2btdmgtyf390dcgofwu62h8"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L01_Introduction_to_Microbiology"
-          ]
-        },
-        {
           "label": "Baterial Pathogenesis",
           "code": "C1T3L02",
           "instructor": "Anderson",
