@@ -652,17 +652,10 @@
           "label": "Bacterial Flora & Pathogenesis",
           "code": "C1T3L03",
           "instructor": "Pross",
-          "cards": 94,
+          "cards": 86,
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
-          "note": "Updated L03 w/ AnKing cards + more relevance",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/y7s21fxxdwojped1w8h8vn2109kx5re4"
-            }
-          ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L03_Bacterial_Flora&Pathogenesis"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L19_Bacterial_Flora&Pathogenesis"
           ]
         },
         {
