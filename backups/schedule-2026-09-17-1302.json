@@ -616,6 +616,7 @@
           "code": "C1T3L01",
           "instructor": "Anderson",
           "cards": 45,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L17_Medical_Microbio"
           ]
@@ -642,6 +643,7 @@
           "code": "C1T3L02",
           "instructor": "Anderson",
           "cards": 140,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L18_Bacterial_Pathogenesis"
           ]
@@ -651,6 +653,7 @@
           "code": "C1T3L03",
           "instructor": "Pross",
           "cards": 94,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
           "note": "Updated L03 w/ AnKing cards + more relevance",
           "links": [
             {
@@ -667,6 +670,7 @@
           "code": "C1T3L04",
           "instructor": "PRERECORDED — Bharadwaj",
           "cards": 235,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963649",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab6_Glutes&Posterior_Thigh"
           ]
@@ -698,6 +702,7 @@
           "code": "C1T3L05",
           "instructor": "Anderson",
           "cards": 87,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L21_High_Impact_Bacterial_Infections_EL"
           ]
@@ -707,6 +712,7 @@
           "code": "C1T3L06",
           "instructor": "Pross",
           "cards": 90,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L22_Immunology_Intro&Innate_Immune_Sys"
           ]
@@ -734,6 +740,7 @@
           "code": "",
           "instructor": "Bharadwaj",
           "cards": 382,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963693",
           "note": "Overlaps Tuesday's prelab by 235 cards — 147 new.",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
@@ -750,6 +757,7 @@
           "code": "C1T3L09",
           "instructor": "",
           "cards": 130,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043553",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L01_MHC",
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L02_Tumor_Antigen_Presentation"
@@ -759,17 +767,8 @@
           "label": "Cytokines & Complement",
           "code": "C1T3L10",
           "instructor": "Pross",
-          "cards": 172,
-          "note": "Thanks to Anish for making cards!",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/ruhzieonyj0g0ua6mcuarp6hyrx7tk1a"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L02_Cytokine_Complement_System"
-          ]
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043559",
+          "tags": []
         }
       ]
     },
