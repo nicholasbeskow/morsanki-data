@@ -802,17 +802,7 @@
           "code": "C1T3L12",
           "instructor": "Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425",
-          "cards": 59,
-          "note": "Thank you to Anish for making cards!",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/bizxds2zr8wz8y9aysg8k3ut8ryjfwsq"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L12_High_Impact_Viral_Infections"
-          ]
+          "tags": []
         },
         {
           "label": "Effector Function of Humoral & Cellular Immune Responses",
