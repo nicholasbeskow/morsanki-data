@@ -721,7 +721,6 @@
           "label": "Adaptive Immune System",
           "code": "C1T3L07",
           "instructor": "Mohapatra",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
           "cards": 130,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L23_Adaptive_Immune_Sys"
@@ -731,7 +730,6 @@
           "label": "Lymph Nodes & Lymphatic System",
           "code": "C1T3L08",
           "instructor": "Wiranowska",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943",
           "cards": 49,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L24_Lymph_Nodes&Lymphatic_Sys"
@@ -758,7 +756,7 @@
           "label": "MHC & Antigen Presentation",
           "code": "C1T3L09",
           "instructor": "",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043553",
           "cards": 130,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L01_MHC",
@@ -769,7 +767,7 @@
           "label": "Cytokines & Complement",
           "code": "C1T3L10",
           "instructor": "Pross",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059975",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043559",
           "cards": 172,
           "note": "Thanks to Anish for making cards!",
           "links": [
@@ -791,7 +789,6 @@
           "label": "Introduction to Virology",
           "code": "C1T3L11",
           "instructor": "Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
           "cards": 58,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L14_Virology_Intro"
@@ -801,14 +798,12 @@
           "label": "EL – High-Impact Viral Infections",
           "code": "C1T3L12",
           "instructor": "Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425",
           "tags": []
         },
         {
           "label": "Effector Function of Humoral & Cellular Immune Responses",
           "code": "C1T3L13",
           "instructor": "Bahner",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387",
           "cards": 123,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L04_Effector_Fxn_in_Tumor_Control"
@@ -818,7 +813,6 @@
           "label": "Immunological Memory",
           "code": "C1T3L14",
           "instructor": "Bahner",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069679",
           "cards": 66,
           "note": "Course 5 tag. May not be the best.",
           "tags": [
