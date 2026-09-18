@@ -1,0 +1,816 @@
+{
+  "exams": [
+    {
+      "date": "2026-08-24",
+      "name": "Test 1"
+    },
+    {
+      "date": "2026-09-09",
+      "name": "Mock Anatomy Practical"
+    },
+    {
+      "date": "2026-09-14",
+      "name": "Test 2"
+    },
+    {
+      "date": "2026-09-28",
+      "name": "Anatomy Practical"
+    },
+    {
+      "date": "2026-09-29",
+      "name": "Test 3"
+    },
+    {
+      "date": "2026-10-01",
+      "name": "NBME Final Exam"
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-08-25",
+      "lectures": [
+        {
+          "label": "Cytoskeleton & Cellular Substructures",
+          "code": "C1T2L01",
+          "instructor": "Wiranowska",
+          "cards": 135,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501227",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L04_Cytoskeleton&Cellular_Substructures"
+          ]
+        },
+        {
+          "label": "Extracellular Matrix",
+          "code": "C1T2L02",
+          "instructor": "Wiranowska",
+          "cards": 107,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501415",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L07_ECM"
+          ]
+        },
+        {
+          "label": "Prelab: Axilla",
+          "code": "C1T2L03",
+          "instructor": "Bharadwaj",
+          "cards": 130,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47620233",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::PreLab3_Axilla"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "lectures": [
+        {
+          "label": "Connective & Epithelial Tissue",
+          "code": "C1T2L04",
+          "instructor": "Wiranowska",
+          "cards": 159,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47521305",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L08_Epithelial_Tissue",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L09_Connective_Tissue"
+          ]
+        },
+        {
+          "label": "Anatomy Lab 3 — Axilla",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "cards": 223,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "lectures": [
+        {
+          "label": "Early Embryology I",
+          "code": "C1T2L05",
+          "instructor": "Bharadwaj",
+          "cards": 169,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630629",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+          ]
+        },
+        {
+          "label": "C1T2L05 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 68,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/c6ov4lhqwjey369soelg7xm03htr5mza"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L05_Early_Embryology_I&II"
+          ]
+        },
+        {
+          "label": "Early Embryology II",
+          "code": "C1T2L06",
+          "instructor": "Bharadwaj",
+          "note": "Same cards as the lecture above",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433245",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+          ]
+        },
+        {
+          "label": "C1T2L06 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 95,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/df5t4i4m3ycaijlqvk6taqs88am8u0yx"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L06_Early_Embryology_III"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "lectures": [
+        {
+          "label": "Early Embryology III",
+          "code": "C1T2L07",
+          "instructor": "Bharadwaj",
+          "note": "Already unlocked Thu, Aug 27",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433241",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+          ]
+        },
+        {
+          "label": "Prelab: Forearm and Hand",
+          "code": "C1T2L08",
+          "instructor": "Bharadwaj",
+          "cards": 37,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47503549",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
+          ]
+        },
+        {
+          "label": "C1T2L08 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 238,
+          "optional_unlock": true,
+          "note": "Deck made by Anish",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/dmim6ydlgn8h8o6evj5rn10uj4nmbxho"
+            }
+          ],
+          "query": "tag:#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb -nid:1725748927639,1725748968966,1725749280601,1725749315214,1725749380517",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
+          ]
+        },
+        {
+          "label": "Postlab EL: Axilla",
+          "code": "C1T2L09",
+          "instructor": "Bharadwaj",
+          "note": "Already unlocked Wed, Aug 26",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46776587",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "lectures": [
+        {
+          "label": "Diffusion, Osmosis, & Transport Proteins",
+          "code": "C1T2L10",
+          "instructor": "Dominguez Rieg",
+          "cards": 64,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47652335",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L03_Diffusion_Osmosis_Transport_Proteins"
+          ]
+        },
+        {
+          "label": "Bone & Cartilage",
+          "code": "C1T2L11",
+          "instructor": "Wiranowska",
+          "cards": 204,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47691323",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
+          ]
+        },
+        {
+          "label": "Lab – Anterior Forearm & Hand",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "cards": 527,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "lectures": [
+        {
+          "label": "Concepts of Diagnosis & Pathology",
+          "code": "C1T2L12",
+          "instructor": "Kruk",
+          "cards": 40,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47700571",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L20_Cancer_Dx&Path"
+          ]
+        },
+        {
+          "label": "EL – Breast & Ovarian Cancer, BRCA mutations",
+          "code": "C1T2L13",
+          "instructor": "Kruk",
+          "cards": 60,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47701765",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L17_Breast&Ovarian_Cancer"
+          ]
+        },
+        {
+          "label": "C1T2L13 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 36,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/wz04gohhz8syhcqaba8vb3yqgxad9x0v"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L13_EL_Breast&Ovarian_Cancer"
+          ]
+        },
+        {
+          "label": "EL – Lung Cancer",
+          "code": "C1T2L14",
+          "instructor": "Davé",
+          "cards": 106,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704931",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L05_Lung_Cancer_EL"
+          ]
+        },
+        {
+          "label": "Bone & Cartilage",
+          "code": "C1T2L15",
+          "instructor": "Wiranowska",
+          "note": "Already unlocked Mon, Aug 31",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47691323",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "lectures": [
+        {
+          "label": "Skin",
+          "code": "C1T2L16",
+          "instructor": "Wiranowska",
+          "cards": 149,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704849",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_Skin"
+          ]
+        },
+        {
+          "label": "Foundations in Cutaneous Pathology",
+          "code": "C1T2L17",
+          "instructor": "Albers",
+          "cards": 151,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704925",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Cutaneous_Oncology",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L11_Cutaneous_Oncology"
+          ]
+        },
+        {
+          "label": "EL – Melanoma",
+          "code": "C1T2L18",
+          "instructor": "Bharadwaj & Albers",
+          "cards": 78,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689747",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Melanoma_EL"
+          ]
+        },
+        {
+          "label": "C1T2L18 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 92,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/v65h8i5hlns8k6jykhx9zr3fa3asyhn0"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L18_EL_Melanoma"
+          ]
+        },
+        {
+          "label": "Musculoskeletal System",
+          "code": "C1T2L19",
+          "instructor": "Bharadwaj",
+          "cards": 93,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630633",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_MSK_Embryo"
+          ]
+        },
+        {
+          "label": "C1T2L19 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 157,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/ycugxeeuk4ey3jy3r5w151s0ovk63fwr"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L19_MSK_Embryology"
+          ]
+        },
+        {
+          "label": "Lab – Posterior Forearm & Hand",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "note": "Already unlocked Mon, Aug 31",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "lectures": [
+        {
+          "label": "Skeletal Muscle",
+          "code": "C1T2L20",
+          "instructor": "Wiranowska",
+          "cards": 153,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47755711",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L02_Muscle_Histo"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "lectures": [
+        {
+          "label": "EL – Nerve Injuries of Upper Limb",
+          "code": "C1T2L21",
+          "instructor": "Kothari",
+          "cards": 97,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/yptssxbym3d1zdlryczq48xlbmx30klq"
+            }
+          ],
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47601087",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L21_EL_Nerve_Injuries_of_Upper_Limb"
+          ]
+        },
+        {
+          "label": "Elbow & Wrist Joint",
+          "code": "C1T2L22",
+          "instructor": "Riveros",
+          "cards": 100,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/yi1sqcbpdyq5pe585ukxmwrr66grfnnd"
+            }
+          ],
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47912889",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L22_Elbow&Wrist_Joint"
+          ]
+        },
+        {
+          "label": "Membrane Potential & Ion Channels",
+          "code": "C1T2L23",
+          "instructor": "Noujaim",
+          "cards": 38,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078239",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L17_Membrane_Potentials&Ion_Channels"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "lectures": [
+        {
+          "label": "Electrical Signaling",
+          "code": "C1T2L24",
+          "instructor": "Noujaim",
+          "cards": 24,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078243",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L18_Electrical_Signaling"
+          ]
+        },
+        {
+          "label": "Skeletal Muscle",
+          "code": "C1T2L25",
+          "instructor": "Scallan",
+          "cards": 111,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958331",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L03_Skeletal_Muscle_Physio"
+          ]
+        },
+        {
+          "label": "Excitation-Contraction Coupling",
+          "code": "C1T2L26",
+          "instructor": "Scallan",
+          "cards": 57,
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958329",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L04_Excitation_Contraction_Coupling"
+          ]
+        },
+        {
+          "label": "MOCK ANATOMY PRACTICAL",
+          "code": "",
+          "instructor": "",
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download deck here first",
+              "url": "https://usf.app.box.com/s/w6ebm0j89wvvx98z4onz48osc8ruo60f"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Mock_Practical_co30"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "lectures": [
+        {
+          "label": "Postlab EL – Forearm & Hand",
+          "code": "C1T2L27",
+          "instructor": "Bharadwaj",
+          "note": "Already unlocked Mon, Aug 31",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47730497",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+          ]
+        },
+        {
+          "label": "C1T2L27 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 39,
+          "optional_unlock": true,
+          "note": "Questions/AnKing focused",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/uxhk04cl95fgg2sjxp7wyeywsa9gi1b4"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L27_EL_Forearm&Hand"
+          ]
+        },
+        {
+          "label": "EL – Musculoskeletal System",
+          "code": "C1T2L28",
+          "instructor": "Bharadwaj",
+          "cards": 18,
+          "note": "Thanks to Anish for additions!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/a8e77sjwef1pc963fz1xb6a4zw1eavb3"
+            }
+          ],
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689773",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L28_EL_MSK_Embryology"
+          ]
+        },
+        {
+          "label": "Neuromuscular Junction",
+          "code": "C1T2L29",
+          "instructor": "Crofton",
+          "cards": 147,
+          "note": "AnKing cards included",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/3vsb70501ffnvn44mb6crs5ftmyxgg2r"
+            }
+          ],
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48007113",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L29_Neuromuscular_Junction"
+          ]
+        },
+        {
+          "label": "C1T2L29 (Bernie)",
+          "code": "",
+          "instructor": "",
+          "cards": 102,
+          "optional_unlock": true,
+          "note": "No AnKing, comprehensive for in-house",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/2zjmhow13fbgs12jjqda0c20aigd66lz"
+            }
+          ],
+          "tags": [
+            "C1T2L29"
+          ]
+        },
+        {
+          "label": "C1T2L29 (Anish)",
+          "code": "",
+          "instructor": "",
+          "cards": 90,
+          "optional_unlock": true,
+          "note": "AnKing + Anish's version of cards",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/nue4d9nk9tjw4bkyj8x0658nielidu91"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L10_Neuromuscular_Junction"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "lectures": [
+        {
+          "label": "TEST 2!!!",
+          "code": "",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "lectures": [
+        {
+          "label": "Introduction to Microbiology",
+          "code": "C1T3L01",
+          "instructor": "Anderson",
+          "cards": 45,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L17_Medical_Microbio"
+          ]
+        },
+        {
+          "label": "C1T3L01 (AnKing)",
+          "code": "",
+          "instructor": "",
+          "cards": 37,
+          "optional_unlock": true,
+          "note": "Includes additional AnKing cards (37)",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/46ahgtdpl2btdmgtyf390dcgofwu62h8"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L01_Introduction_to_Microbiology"
+          ]
+        },
+        {
+          "label": "Bacterial Pathogenesis",
+          "code": "C1T3L02",
+          "instructor": "Anderson",
+          "cards": 140,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L18_Bacterial_Pathogenesis"
+          ]
+        },
+        {
+          "label": "Bacterial Flora & Pathogenesis",
+          "code": "C1T3L03",
+          "instructor": "Pross",
+          "cards": 94,
+          "note": "Updated L03 w/ AnKing cards + more relevance",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/y7s21fxxdwojped1w8h8vn2109kx5re4"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L03_Bacterial_Flora&Pathogenesis"
+          ]
+        },
+        {
+          "label": "Prelab – Gluteal Region & Posterior Thigh",
+          "code": "C1T3L04",
+          "instructor": "PRERECORDED — Bharadwaj",
+          "cards": 235,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab6_Glutes&Posterior_Thigh"
+          ]
+        },
+        {
+          "label": "C1T3L04 (Nathanki)",
+          "code": "",
+          "instructor": "",
+          "cards": 68,
+          "optional_unlock": true,
+          "note": "Nathan's prelab cards (keep IO from OG)",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/qm0ayt8jujcypbeazjtxl1x8ybkb66za"
+            }
+          ],
+          "tags": [
+            "nathanglutepl"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "lectures": [
+        {
+          "label": "EL – High-Impact Bacterial Infections",
+          "code": "C1T3L05",
+          "instructor": "Anderson",
+          "cards": 87,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L21_High_Impact_Bacterial_Infections_EL"
+          ]
+        },
+        {
+          "label": "Introduction to Immunology & Innate Immune System",
+          "code": "C1T3L06",
+          "instructor": "Pross",
+          "cards": 90,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L22_Immunology_Intro&Innate_Immune_Sys"
+          ]
+        },
+        {
+          "label": "Adaptive Immune System",
+          "code": "C1T3L07",
+          "instructor": "Mohapatra",
+          "cards": 130,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L23_Adaptive_Immune_Sys"
+          ]
+        },
+        {
+          "label": "Lymph Nodes & Lymphatic System",
+          "code": "C1T3L08",
+          "instructor": "Wiranowska",
+          "cards": 49,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L24_Lymph_Nodes&Lymphatic_Sys"
+          ]
+        },
+        {
+          "label": "Lab – Gluteal Region & Posterior Thigh",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "cards": 382,
+          "note": "Overlaps Tuesday's prelab by 235 cards — 147 new.",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "lectures": [
+        {
+          "label": "MHC & Antigen Presentation",
+          "code": "C1T3L09",
+          "instructor": "",
+          "cards": 130,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L01_MHC",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L02_Tumor_Antigen_Presentation"
+          ]
+        },
+        {
+          "label": "Cytokines & Complement",
+          "code": "C1T3L10",
+          "instructor": "Pross",
+          "cards": 172,
+          "note": "Thanks to Anish for making cards!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/ruhzieonyj0g0ua6mcuarp6hyrx7tk1a"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L02_Cytokine_Complement_System"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "lectures": [
+        {
+          "label": "Introduction to Virology",
+          "code": "C1T3L11",
+          "instructor": "Teng",
+          "cards": 58,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L14_Virology_Intro"
+          ]
+        },
+        {
+          "label": "EL – High-Impact Viral Infections",
+          "code": "C1T3L12",
+          "instructor": "Teng",
+          "tags": []
+        },
+        {
+          "label": "Effector Function of Humoral & Cellular Immune Responses",
+          "code": "C1T3L13",
+          "instructor": "Bahner",
+          "cards": 123,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L04_Effector_Fxn_in_Tumor_Control"
+          ]
+        },
+        {
+          "label": "Immunological Memory",
+          "code": "C1T3L14",
+          "instructor": "Bahner",
+          "cards": 66,
+          "note": "Course 5 tag. May not be the best.",
+          "tags": [
+            "#Morsanki::Year_2::C5_Infection&Immunology::Test_1::lectures_co27::L14_Immunological_Memory"
+          ]
+        }
+      ]
+    }
+  ]
+}
