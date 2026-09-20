@@ -861,53 +861,31 @@
       "date": "2026-09-21",
       "lectures": [
         {
-          "label": "EL – Diagnostic Testing for Infectious Diseases",
-          "instructor": "Anderson & Teng",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
-          "cards": 29,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L16_Diagnostic_Testing_for_ID"
-          ]
-        },
-        {
-          "label": "Concepts of Vaccination and Immunotherapies",
-          "code": "C1T3L17",
-          "instructor": "Seyfang",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
-          "cards": 104,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L03_Vaccination&Immunotherapies"
-          ]
-        },
-        {
           "label": "Postlab EL – Gluteal Region & Posterior Thigh",
           "code": "C1T3L15",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47965449",
-          "note": "Already unlocked in an earlier week",
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh"
-          ]
+          "tags": []
         },
         {
           "label": "Prelab – Anterior Thigh & Leg",
           "code": "C1T3L16",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966469",
-          "cards": 283,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab7_Anterior&Medial_Thigh&Anterolateral_Leg"
-          ]
+          "tags": []
         },
         {
-          "label": "Lab – Anterior Thigh & Leg",
-          "instructor": "Bharadwaj",
-          "cards": 490,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg"
-          ]
+          "label": "EL – Diagnostic Testing for Infectious Diseases",
+          "instructor": "Anderson & Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
+          "tags": []
+        },
+        {
+          "label": "Concepts of Vaccination and Immunotherapies",
+          "code": "C1T3L17",
+          "instructor": "Seyfang",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
+          "tags": []
         }
       ]
     },
@@ -919,30 +897,19 @@
           "code": "C1T3L19",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966845",
-          "cards": 266,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab8_Posterior_Leg&Foot&Joints_of_lower_limb"
-          ]
+          "tags": []
         },
         {
           "label": "Radiology Lower Limb",
           "code": "C1T3L20",
           "instructor": "Meyer",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078439",
-          "cards": 20,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Radiology_Lower_Limb"
-          ]
+          "tags": []
         },
         {
           "label": "Joints of Lower Limb",
           "code": "C1T3L21",
           "instructor": "Riveros",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48097627",
-          "cards": 106,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L08_Joints_of_Lower_Limb"
-          ]
+          "tags": []
         }
       ]
     },
@@ -953,41 +920,21 @@
           "label": "EL – Ligaments & Tear",
           "code": "C1T3L22",
           "instructor": "Remaley & Wiranowska & Prakash",
-          "cards": 93,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L09_Ligaments&Tear"
-          ]
+          "tags": []
         },
         {
           "label": "Postlab EL – Anterior Thigh & Leg",
           "code": "C1T3L23",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966487",
-          "note": "Already unlocked Mon, Sep 21",
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg"
-          ]
+          "tags": []
         },
         {
           "label": "Diseases of the Musculoskeletal System",
           "code": "C1T3L24",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48004575",
-          "cards": 82,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L12_MSK_Diseases"
-          ]
-        },
-        {
-          "label": "Lab – Posterior Leg & Foot",
-          "instructor": "Bharadwaj",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47964115",
-          "cards": 432,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot"
-          ]
+          "tags": []
         }
       ]
     },
@@ -998,21 +945,14 @@
           "label": "EL – Trauma",
           "code": "C1T3L25",
           "instructor": "Remaley & Prakash",
-          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078417",
-          "cards": 36,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L14_Trauma"
-          ]
+          "tags": []
         },
         {
           "label": "EL – Osteoarthritis",
           "code": "C1T3L26",
           "instructor": "Alsaleh",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48084593",
-          "cards": 56,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L13_Osteoarthritis"
-          ]
+          "tags": []
         }
       ]
     },
@@ -1024,36 +964,26 @@
           "code": "C1T3L27",
           "instructor": "Bharadwaj",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47967003",
-          "note": "Already unlocked Wed, Sep 23",
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot"
-          ]
+          "tags": []
         },
         {
           "label": "EL – Nerve Injury of Lower Limb",
           "code": "C1T3L28",
           "instructor": "Kothari",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075531",
-          "cards": 74,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L07_Nerve_Injuries_of_Lower_limb"
-          ]
+          "tags": []
         },
         {
           "label": "EL – Muscular Dystrophy",
           "code": "C1T3L29",
           "instructor": "Seyfang & Chen",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075333",
-          "cards": 39,
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L10_Muscular_Dystrophy"
-          ]
+          "tags": []
         },
         {
           "label": "EL – Immunology Reasoning & Review",
-          "tags": [],
-          "instructor": "Bahner & Pross"
+          "instructor": "Bahner & Pross",
+          "tags": []
         }
       ]
     }
