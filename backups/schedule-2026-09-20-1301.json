@@ -838,26 +838,6 @@
       ]
     },
     {
-      "date": "2026-09-20",
-      "lectures": [
-        {
-          "label": "C1 Anatomy Practical",
-          "cards": 800,
-          "optional_unlock": true,
-          "note": "Download/unsuspend immediately just in case tags get wiped by AnkiHub.",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/k1mfkkjgcwd0yw8rrxttj2jf9peiqbfp"
-            }
-          ],
-          "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Class_of_2030::C1_Practical"
-          ]
-        }
-      ]
-    },
-    {
       "date": "2026-09-21",
       "lectures": [
         {
