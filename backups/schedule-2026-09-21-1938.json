@@ -862,7 +862,6 @@
       "lectures": [
         {
           "label": "EL – Diagnostic Testing for Infectious Diseases",
-          "code": "C1T3L17",
           "instructor": "Anderson & Teng",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
           "cards": 29,
@@ -872,7 +871,7 @@
         },
         {
           "label": "Concepts of Vaccination and Immunotherapies",
-          "code": "C1T3L18",
+          "code": "C1T3L17",
           "instructor": "Seyfang",
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
           "cards": 104,
@@ -902,25 +901,7 @@
           ]
         },
         {
-          "label": "C1T3L16 (Nathanki)",
-          "code": "",
-          "instructor": "",
-          "cards": 67,
-          "optional_unlock": true,
-          "note": "Thanks to Nathan for making these cards!",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/w2dcply0psguj7phidud6o449t6tff2s"
-            }
-          ],
-          "tags": [
-            "Nathanki::Anterior_Lateral_Leg"
-          ]
-        },
-        {
           "label": "Lab – Anterior Thigh & Leg",
-          "code": "",
           "instructor": "Bharadwaj",
           "cards": 490,
           "tags": [
@@ -1071,8 +1052,8 @@
         },
         {
           "label": "EL – Immunology Reasoning & Review",
-          "instructor": "Bahner & Pross",
-          "tags": []
+          "tags": [],
+          "instructor": "Bahner & Pross"
         }
       ]
     }
