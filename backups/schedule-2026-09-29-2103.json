@@ -1092,25 +1092,6 @@
           "tags": []
         }
       ]
-    },
-    {
-      "date": "2026-09-29",
-      "lectures": [
-        {
-          "label": "ZanKing C1",
-          "optional_unlock": true,
-          "note": "Missed AnKing notes from C1. Thanks to Zain for finding!",
-          "links": [
-            {
-              "label": "Download here first",
-              "url": "https://usf.box.com/s/4inm2qsdg8ewa2u8t5d32qz7d8xh8x7v"
-            }
-          ],
-          "tags": [
-            "zankingc1"
-          ]
-        }
-      ]
     }
   ]
 }
