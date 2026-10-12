@@ -1149,14 +1149,16 @@
       "lectures": [
         {
           "label": "Introduction to Cardiopulm",
-          "code": "C2T1L00",
+          "code": "C2T1L01",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48332945",
           "tags": []
         },
         {
           "label": "Overview of Circulatory System",
-          "code": "C2T1L01",
+          "code": "C2T1L02",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
           "cards": 122,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L01_Circulatory_System_Overview"
@@ -1164,8 +1166,9 @@
         },
         {
           "label": "Hemodynamics",
-          "code": "C2T1L02",
+          "code": "C2T1L03",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
           "cards": 95,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L10_Hemodynamics"
@@ -1173,8 +1176,9 @@
         },
         {
           "label": "Prelab1: Thoracic Wall",
-          "code": "C2T1L03",
+          "code": "C2T1L04",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48324693",
           "cards": 160,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab1_Thorax",
@@ -1188,8 +1192,9 @@
       "lectures": [
         {
           "label": "Plasma Proteins",
-          "code": "C2T1L04",
+          "code": "C2T1L05",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333539",
           "cards": 89,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L02_Plasma_Proteins"
@@ -1197,8 +1202,9 @@
         },
         {
           "label": "Hemoglobin: O2 & CO2 Carrying Properties",
-          "code": "C2T1L05",
+          "code": "C2T1L06",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333605",
           "cards": 116,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L08_Hemoglobin"
@@ -1206,8 +1212,9 @@
         },
         {
           "label": "Cellular Elements of Blood",
-          "code": "C2T1L06",
+          "code": "C2T1L07",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48334505",
           "cards": 211,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L05_Cellular_Elements_of_Blood"
@@ -1220,7 +1227,7 @@
       "lectures": [
         {
           "label": "Hemostasis & Thrombosis",
-          "code": "C2T1L07",
+          "code": "C2T1L08",
           "instructor": "",
           "cards": 193,
           "tags": [
@@ -1229,7 +1236,7 @@
         },
         {
           "label": "Autonomic Innervation of Thoracic Organs",
-          "code": "C2T1L08",
+          "code": "C2T1L09",
           "instructor": "",
           "cards": 115,
           "tags": [
@@ -1238,7 +1245,7 @@
         },
         {
           "label": "Postlab1: Thoracic Wall",
-          "code": "C2T1L09",
+          "code": "C2T1L10",
           "instructor": "",
           "cards": 47,
           "tags": [
@@ -1261,7 +1268,7 @@
         },
         {
           "label": "Eicosanoids",
-          "code": "C2T1L10",
+          "code": "C2T1L11",
           "instructor": "",
           "cards": 91,
           "tags": [
@@ -1275,8 +1282,9 @@
       "lectures": [
         {
           "label": "Coagulation & Platelet Disorders",
-          "code": "C2T1L11",
+          "code": "C2T1L12",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48155535",
           "cards": 298,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L12_Coagulation&Platelet_Disorders1&2"
@@ -1284,7 +1292,7 @@
         },
         {
           "label": "Prelab2: Pericardium & Heart",
-          "code": "C2T1L12",
+          "code": "C2T1L13",
           "instructor": "",
           "cards": 232,
           "tags": [
@@ -1299,8 +1307,9 @@
       "lectures": [
         {
           "label": "Biochemical Properties of Arteries/Veins & Determinants of Blood Pressure",
-          "code": "C2T1L13",
+          "code": "C2T1L14",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48320881",
           "cards": 87,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L14_Biomech_Properties_Arteries&Veins"
@@ -1308,7 +1317,7 @@
         },
         {
           "label": "Microanatomy of CV System",
-          "code": "C2T1L14",
+          "code": "C2T1L15",
           "instructor": "",
           "cards": 192,
           "tags": [
@@ -1322,7 +1331,7 @@
       "lectures": [
         {
           "label": "Cardiac Imaging",
-          "code": "C2T1L15",
+          "code": "C2T1L16",
           "instructor": "",
           "cards": 66,
           "tags": [
@@ -1331,7 +1340,7 @@
         },
         {
           "label": "Autonomic Regulation of CV System",
-          "code": "C2T1L16",
+          "code": "C2T1L17",
           "instructor": "",
           "cards": 81,
           "tags": [
@@ -1340,7 +1349,7 @@
         },
         {
           "label": "Iron & Heme Metabolism",
-          "code": "C2T1L17",
+          "code": "C2T1L18",
           "instructor": "",
           "cards": 200,
           "tags": [
@@ -1354,7 +1363,7 @@
       "lectures": [
         {
           "label": "Autoregulation & Neural Control of Blood Flow",
-          "code": "C2T1L18",
+          "code": "C2T1L19",
           "instructor": "",
           "cards": 118,
           "tags": [
@@ -1363,7 +1372,7 @@
         },
         {
           "label": "Regulation of Coronary Blood Flow",
-          "code": "C2T1L19",
+          "code": "C2T1L20",
           "instructor": "",
           "cards": 77,
           "tags": [
@@ -1372,7 +1381,7 @@
         },
         {
           "label": "Cardiac Electrophysiology",
-          "code": "C2T1L20",
+          "code": "C2T1L21",
           "instructor": "",
           "cards": 170,
           "tags": [
@@ -1397,7 +1406,7 @@
       "lectures": [
         {
           "label": "Cardiac Muscle Physiology",
-          "code": "C2T1L21",
+          "code": "C2T1L22",
           "instructor": "",
           "cards": 118,
           "tags": [
@@ -1406,7 +1415,7 @@
         },
         {
           "label": "The Cardiac Cycle",
-          "code": "C2T1L22",
+          "code": "C2T1L23",
           "instructor": "",
           "cards": 135,
           "tags": [
@@ -1415,7 +1424,7 @@
         },
         {
           "label": "Postlab2: Pericardium & Heart",
-          "code": "C2T1L23",
+          "code": "C2T1L24",
           "instructor": "",
           "cards": 88,
           "tags": [
@@ -1424,7 +1433,7 @@
         },
         {
           "label": "Clinical ECG",
-          "code": "C2T1L24",
+          "code": "C2T1L25",
           "instructor": "",
           "cards": 122,
           "tags": [
@@ -1438,7 +1447,7 @@
       "lectures": [
         {
           "label": "EL: Sickle Cell Disease",
-          "code": "C2T1L25",
+          "code": "C2T1L26",
           "instructor": "",
           "cards": 70,
           "tags": [
@@ -1447,7 +1456,7 @@
         },
         {
           "label": "Baroreceptor & Chemoreceptor Regulation",
-          "code": "C2T1L26",
+          "code": "C2T1L27",
           "instructor": "",
           "cards": 97,
           "tags": [
@@ -1456,7 +1465,7 @@
         },
         {
           "label": "Development of Cardiovascular System",
-          "code": "C2T1L27",
+          "code": "C2T1L28",
           "instructor": "",
           "cards": 248,
           "tags": [
@@ -1470,7 +1479,7 @@
       "lectures": [
         {
           "label": "EL: Syncope & Orthostatic Hypotension",
-          "code": "C2T1L28",
+          "code": "C2T1L29",
           "instructor": "",
           "cards": 3,
           "tags": [
@@ -1479,7 +1488,7 @@
         },
         {
           "label": "EL: Regulation of Cardiac Output",
-          "code": "C2T1L29",
+          "code": "C2T1L30",
           "instructor": "",
           "cards": 131,
           "tags": [
@@ -1493,7 +1502,7 @@
       "lectures": [
         {
           "label": "EL: Circulation Physiology",
-          "code": "C2T1L30",
+          "code": "C2T1L31",
           "instructor": "",
           "cards": 63,
           "tags": [
@@ -1502,7 +1511,7 @@
         },
         {
           "label": "EL: Development of Cardiovascular System",
-          "code": "C2T1L31",
+          "code": "C2T1L32",
           "instructor": "",
           "tags": []
         }
