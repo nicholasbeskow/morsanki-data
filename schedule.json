@@ -1219,6 +1219,17 @@
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L05_Cellular_Elements_of_Blood"
           ]
+        },
+        {
+          "label": "Blood Virtual Microscopy",
+          "code": "",
+          "instructor": "",
+          "cards": 36,
+          "optional_unlock": true,
+          "note": "Thanks to Katryna for finding the tag!",
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L06_Blood_Virtual_Microscopy"
+          ]
         }
       ]
     },
