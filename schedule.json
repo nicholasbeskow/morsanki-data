@@ -68,7 +68,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501227",
           "cards": 135,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L04_Cytoskeleton&Cellular_Substructures"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L04_Cytoskeleton&Cellular_Substructures",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L04_Cytoskeleton&Cellular_Substructures"
           ]
         },
         {
@@ -78,7 +79,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501415",
           "cards": 107,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L07_ECM"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L07_ECM",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L07_ECM"
           ]
         },
         {
@@ -88,7 +90,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47620233",
           "cards": 130,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::PreLab3_Axilla"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::PreLab3_Axilla",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::PreLab3_Axilla"
           ]
         }
       ]
@@ -104,7 +107,9 @@
           "cards": 159,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L08_Epithelial_Tissue",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L09_Connective_Tissue"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L08_Epithelial_Tissue",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L09_Connective_Tissue",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L09_Connective_Tissue"
           ]
         },
         {
@@ -114,7 +119,9 @@
           "cards": 223,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla"
           ]
         }
       ]
@@ -129,7 +136,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630629",
           "cards": 169,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
           ]
         },
         {
@@ -145,7 +153,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L05_Early_Embryology_I&II"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L05_Early_Embryology_I&II",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L05_Early_Embryology_I&II"
           ]
         },
         {
@@ -155,7 +164,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433245",
           "note": "Same cards as the lecture above",
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
           ]
         },
         {
@@ -171,7 +181,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L06_Early_Embryology_III"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L06_Early_Embryology_III",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L06_Early_Embryology_III"
           ]
         }
       ]
@@ -186,7 +197,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433241",
           "note": "Already unlocked Thu, Aug 27",
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
           ]
         },
         {
@@ -196,7 +208,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47503549",
           "cards": 37,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
           ]
         },
         {
@@ -214,7 +227,8 @@
           ],
           "query": "tag:#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb -nid:1725748927639,1725748968966,1725749280601,1725749315214,1725749380517",
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
           ]
         },
         {
@@ -225,7 +239,9 @@
           "note": "Already unlocked Wed, Aug 26",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla"
           ]
         }
       ]
@@ -240,7 +256,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47652335",
           "cards": 64,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L03_Diffusion_Osmosis_Transport_Proteins"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L03_Diffusion_Osmosis_Transport_Proteins",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L03_Diffusion_Osmosis_Transport_Proteins"
           ]
         },
         {
@@ -251,7 +268,9 @@
           "cards": 204,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
           ]
         },
         {
@@ -261,7 +280,9 @@
           "cards": 527,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
           ]
         }
       ]
@@ -276,7 +297,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47700571",
           "cards": 40,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L20_Cancer_Dx&Path"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L20_Cancer_Dx&Path",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L20_Cancer_Dx&Path"
           ]
         },
         {
@@ -286,7 +308,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47701765",
           "cards": 60,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L17_Breast&Ovarian_Cancer"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L17_Breast&Ovarian_Cancer",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L17_Breast&Ovarian_Cancer"
           ]
         },
         {
@@ -302,7 +325,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L13_EL_Breast&Ovarian_Cancer"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L13_EL_Breast&Ovarian_Cancer",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L13_EL_Breast&Ovarian_Cancer"
           ]
         },
         {
@@ -312,7 +336,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704931",
           "cards": 106,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L05_Lung_Cancer_EL"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L05_Lung_Cancer_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L05_Lung_Cancer_EL"
           ]
         },
         {
@@ -323,7 +348,9 @@
           "note": "Already unlocked Mon, Aug 31",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
           ]
         }
       ]
@@ -338,7 +365,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704849",
           "cards": 149,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_Skin"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_Skin",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_Skin"
           ]
         },
         {
@@ -349,7 +377,9 @@
           "cards": 151,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Cutaneous_Oncology",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L11_Cutaneous_Oncology"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Cutaneous_Oncology",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L11_Cutaneous_Oncology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L11_Cutaneous_Oncology"
           ]
         },
         {
@@ -359,7 +389,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689747",
           "cards": 78,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Melanoma_EL"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Melanoma_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Melanoma_EL"
           ]
         },
         {
@@ -375,7 +406,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L18_EL_Melanoma"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L18_EL_Melanoma",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L18_EL_Melanoma"
           ]
         },
         {
@@ -385,7 +417,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630633",
           "cards": 93,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_MSK_Embryo"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_MSK_Embryo",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_MSK_Embryo"
           ]
         },
         {
@@ -401,7 +434,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L19_MSK_Embryology"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L19_MSK_Embryology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L19_MSK_Embryology"
           ]
         },
         {
@@ -411,7 +445,9 @@
           "note": "Already unlocked Mon, Aug 31",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
           ]
         }
       ]
@@ -426,7 +462,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47755711",
           "cards": 153,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L02_Muscle_Histo"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L02_Muscle_Histo",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L02_Muscle_Histo"
           ]
         }
       ]
@@ -447,7 +484,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L21_EL_Nerve_Injuries_of_Upper_Limb"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L21_EL_Nerve_Injuries_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L21_EL_Nerve_Injuries_of_Upper_Limb"
           ]
         },
         {
@@ -463,7 +501,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L22_Elbow&Wrist_Joint"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L22_Elbow&Wrist_Joint",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L22_Elbow&Wrist_Joint"
           ]
         },
         {
@@ -473,7 +512,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078239",
           "cards": 38,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L17_Membrane_Potentials&Ion_Channels"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L17_Membrane_Potentials&Ion_Channels",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L17_Membrane_Potentials&Ion_Channels"
           ]
         }
       ]
@@ -488,7 +528,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078243",
           "cards": 24,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L18_Electrical_Signaling"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L18_Electrical_Signaling",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L18_Electrical_Signaling"
           ]
         },
         {
@@ -498,7 +539,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958331",
           "cards": 111,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L03_Skeletal_Muscle_Physio"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L03_Skeletal_Muscle_Physio",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L03_Skeletal_Muscle_Physio"
           ]
         },
         {
@@ -508,7 +550,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958329",
           "cards": 57,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L04_Excitation_Contraction_Coupling"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L04_Excitation_Contraction_Coupling",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L04_Excitation_Contraction_Coupling"
           ]
         },
         {
@@ -523,7 +566,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Mock_Practical_co30"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Mock_Practical_co30",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Mock_Practical_co30"
           ]
         }
       ]
@@ -539,7 +583,9 @@
           "note": "Already unlocked Mon, Aug 31",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
           ]
         },
         {
@@ -556,7 +602,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L27_EL_Forearm&Hand"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L27_EL_Forearm&Hand",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L27_EL_Forearm&Hand"
           ]
         },
         {
@@ -573,7 +620,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L28_EL_MSK_Embryology"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L28_EL_MSK_Embryology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L28_EL_MSK_Embryology"
           ]
         },
         {
@@ -590,7 +638,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L29_Neuromuscular_Junction"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L29_Neuromuscular_Junction",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L29_Neuromuscular_Junction"
           ]
         },
         {
@@ -624,7 +673,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L10_Neuromuscular_Junction"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L10_Neuromuscular_Junction",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L10_Neuromuscular_Junction"
           ]
         }
       ]
@@ -650,7 +700,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
           "cards": 45,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L17_Medical_Microbio"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L17_Medical_Microbio",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L17_Medical_Microbio"
           ]
         },
         {
@@ -667,7 +718,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L01_Introduction_to_Microbiology"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L01_Introduction_to_Microbiology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L01_Introduction_to_Microbiology"
           ]
         },
         {
@@ -677,7 +729,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
           "cards": 140,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L18_Bacterial_Pathogenesis"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L18_Bacterial_Pathogenesis",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L18_Bacterial_Pathogenesis"
           ]
         },
         {
@@ -694,7 +747,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L03_Bacterial_Flora&Pathogenesis"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L03_Bacterial_Flora&Pathogenesis",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L03_Bacterial_Flora&Pathogenesis"
           ]
         },
         {
@@ -704,7 +758,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963649",
           "cards": 235,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab6_Glutes&Posterior_Thigh"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab6_Glutes&Posterior_Thigh",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab6_Glutes&Posterior_Thigh"
           ]
         },
         {
@@ -736,7 +791,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
           "cards": 87,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L21_High_Impact_Bacterial_Infections_EL"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L21_High_Impact_Bacterial_Infections_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L21_High_Impact_Bacterial_Infections_EL"
           ]
         },
         {
@@ -746,7 +802,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547",
           "cards": 90,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L22_Immunology_Intro&Innate_Immune_Sys"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L22_Immunology_Intro&Innate_Immune_Sys",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L22_Immunology_Intro&Innate_Immune_Sys"
           ]
         },
         {
@@ -756,7 +813,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
           "cards": 130,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L23_Adaptive_Immune_Sys"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L23_Adaptive_Immune_Sys",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L23_Adaptive_Immune_Sys"
           ]
         },
         {
@@ -766,7 +824,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943",
           "cards": 49,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L24_Lymph_Nodes&Lymphatic_Sys"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L24_Lymph_Nodes&Lymphatic_Sys",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L24_Lymph_Nodes&Lymphatic_Sys"
           ]
         },
         {
@@ -778,7 +837,9 @@
           "note": "Overlaps Tuesday's prelab by 235 cards — 147 new.",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh"
           ]
         }
       ]
@@ -794,7 +855,9 @@
           "cards": 130,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L01_MHC",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L02_Tumor_Antigen_Presentation"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L01_MHC",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L02_Tumor_Antigen_Presentation",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L02_Tumor_Antigen_Presentation"
           ]
         },
         {
@@ -811,7 +874,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L02_Cytokine_Complement_System"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L02_Cytokine_Complement_System",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L02_Cytokine_Complement_System"
           ]
         }
       ]
@@ -826,7 +890,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
           "cards": 58,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L14_Virology_Intro"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L14_Virology_Intro",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L14_Virology_Intro"
           ]
         },
         {
@@ -843,7 +908,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L12_High_Impact_Viral_Infections"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L12_High_Impact_Viral_Infections",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L12_High_Impact_Viral_Infections"
           ]
         },
         {
@@ -853,7 +919,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387",
           "cards": 123,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L04_Effector_Fxn_in_Tumor_Control"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L04_Effector_Fxn_in_Tumor_Control",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L04_Effector_Fxn_in_Tumor_Control"
           ]
         },
         {
@@ -864,7 +931,8 @@
           "cards": 66,
           "note": "Course 5 tag. May not be the best.",
           "tags": [
-            "#Morsanki::Year_2::C5_Infection&Immunology::Test_1::lectures_co27::L14_Immunological_Memory"
+            "#Morsanki::Year_2::C5_Infection&Immunology::Test_1::lectures_co27::L14_Immunological_Memory",
+            "AnkiHub_Optional::Morsanki::Year_2::C5_Infection&Immunology::Test_1::lectures_co27::L14_Immunological_Memory"
           ]
         }
       ]
@@ -884,7 +952,8 @@
             }
           ],
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Class_of_2030::C1_Practical"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Class_of_2030::C1_Practical",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Class_of_2030::C1_Practical"
           ]
         }
       ]
@@ -900,7 +969,9 @@
           "note": "Already unlocked in an earlier week",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh"
           ]
         },
         {
@@ -910,7 +981,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966469",
           "cards": 283,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab7_Anterior&Medial_Thigh&Anterolateral_Leg"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab7_Anterior&Medial_Thigh&Anterolateral_Leg",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab7_Anterior&Medial_Thigh&Anterolateral_Leg"
           ]
         },
         {
@@ -937,7 +1009,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
           "cards": 29,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L16_Diagnostic_Testing_for_ID"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L16_Diagnostic_Testing_for_ID",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L16_Diagnostic_Testing_for_ID"
           ]
         },
         {
@@ -947,7 +1020,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
           "cards": 104,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L03_Vaccination&Immunotherapies"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L03_Vaccination&Immunotherapies",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L03_Vaccination&Immunotherapies"
           ]
         },
         {
@@ -957,7 +1031,9 @@
           "cards": 490,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg"
           ]
         }
       ]
@@ -972,7 +1048,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966845",
           "cards": 266,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab8_Posterior_Leg&Foot&Joints_of_lower_limb"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab8_Posterior_Leg&Foot&Joints_of_lower_limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab8_Posterior_Leg&Foot&Joints_of_lower_limb"
           ]
         },
         {
@@ -982,7 +1059,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078439",
           "cards": 20,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Radiology_Lower_Limb"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Radiology_Lower_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Radiology_Lower_Limb"
           ]
         },
         {
@@ -992,7 +1070,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48097627",
           "cards": 106,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L08_Joints_of_Lower_Limb"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L08_Joints_of_Lower_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L08_Joints_of_Lower_Limb"
           ]
         }
       ]
@@ -1006,7 +1085,8 @@
           "instructor": "Remaley & Wiranowska & Prakash",
           "cards": 93,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L09_Ligaments&Tear"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L09_Ligaments&Tear",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L09_Ligaments&Tear"
           ]
         },
         {
@@ -1017,7 +1097,9 @@
           "note": "Already unlocked Mon, Sep 21",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg"
           ]
         },
         {
@@ -1044,7 +1126,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48004575",
           "cards": 82,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L12_MSK_Diseases"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L12_MSK_Diseases",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L12_MSK_Diseases"
           ]
         },
         {
@@ -1054,7 +1137,9 @@
           "cards": 432,
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot"
           ]
         }
       ]
@@ -1069,7 +1154,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078417",
           "cards": 36,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L14_Trauma"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L14_Trauma",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L14_Trauma"
           ]
         },
         {
@@ -1079,7 +1165,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48084593",
           "cards": 56,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L13_Osteoarthritis"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L13_Osteoarthritis",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L13_Osteoarthritis"
           ]
         }
       ]
@@ -1095,7 +1182,9 @@
           "note": "Already unlocked Wed, Sep 23",
           "tags": [
             "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot"
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot"
           ]
         },
         {
@@ -1105,7 +1194,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075531",
           "cards": 74,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L07_Nerve_Injuries_of_Lower_limb"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L07_Nerve_Injuries_of_Lower_limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L07_Nerve_Injuries_of_Lower_limb"
           ]
         },
         {
@@ -1115,7 +1205,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075333",
           "cards": 39,
           "tags": [
-            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L10_Muscular_Dystrophy"
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L10_Muscular_Dystrophy",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L10_Muscular_Dystrophy"
           ]
         },
         {
@@ -1161,7 +1252,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
           "cards": 122,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L01_Circulatory_System_Overview"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L01_Circulatory_System_Overview",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L01_Circulatory_System_Overview"
           ]
         },
         {
@@ -1171,7 +1263,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
           "cards": 95,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L10_Hemodynamics"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L10_Hemodynamics",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L10_Hemodynamics"
           ]
         },
         {
@@ -1182,7 +1275,9 @@
           "cards": 160,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab1_Thorax",
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L03_Thorax_Anatomy"
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab1_Thorax",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L03_Thorax_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L03_Thorax_Anatomy"
           ]
         }
       ]
@@ -1197,7 +1292,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333539",
           "cards": 89,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L02_Plasma_Proteins"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L02_Plasma_Proteins",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L02_Plasma_Proteins"
           ]
         },
         {
@@ -1207,7 +1303,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333605",
           "cards": 116,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L08_Hemoglobin"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L08_Hemoglobin",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L08_Hemoglobin"
           ]
         },
         {
@@ -1217,7 +1314,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48334505",
           "cards": 211,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L05_Cellular_Elements_of_Blood"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L05_Cellular_Elements_of_Blood",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L05_Cellular_Elements_of_Blood"
           ]
         },
         {
@@ -1228,7 +1326,8 @@
           "optional_unlock": true,
           "note": "Thanks to Katryna for finding the tag!",
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L06_Blood_Virtual_Microscopy"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L06_Blood_Virtual_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L06_Blood_Virtual_Microscopy"
           ]
         }
       ]
@@ -1242,7 +1341,8 @@
           "instructor": "",
           "cards": 193,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L07_Hemostasis&Thrombosis"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L07_Hemostasis&Thrombosis",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L07_Hemostasis&Thrombosis"
           ]
         },
         {
@@ -1251,7 +1351,8 @@
           "instructor": "",
           "cards": 115,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs"
           ]
         },
         {
@@ -1260,7 +1361,8 @@
           "instructor": "",
           "cards": 47,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L36_Thorax_Anatomy_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L36_Thorax_Anatomy_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L36_Thorax_Anatomy_EL"
           ]
         }
       ]
@@ -1274,7 +1376,8 @@
           "instructor": "",
           "cards": 19,
           "tags": [
-            "#Morsanki::Year_1::EBCR::L01_Intro&StudyDesign_Diagnosis"
+            "#Morsanki::Year_1::EBCR::L01_Intro&StudyDesign_Diagnosis",
+            "AnkiHub_Optional::Morsanki::Year_1::EBCR::L01_Intro&StudyDesign_Diagnosis"
           ]
         },
         {
@@ -1283,7 +1386,8 @@
           "instructor": "",
           "cards": 91,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L09_Eicosanoid_Biosynthesis&Vascular_Reg"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L09_Eicosanoid_Biosynthesis&Vascular_Reg",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L09_Eicosanoid_Biosynthesis&Vascular_Reg"
           ]
         }
       ]
@@ -1298,7 +1402,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48155535",
           "cards": 298,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L12_Coagulation&Platelet_Disorders1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L12_Coagulation&Platelet_Disorders1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L12_Coagulation&Platelet_Disorders1&2"
           ]
         },
         {
@@ -1308,7 +1413,9 @@
           "cards": 232,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab2_Pericardium&Heart",
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L13_Pericadium&Heart"
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab2_Pericardium&Heart",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L13_Pericadium&Heart",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L13_Pericadium&Heart"
           ]
         }
       ]
@@ -1323,7 +1430,8 @@
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48320881",
           "cards": 87,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L14_Biomech_Properties_Arteries&Veins"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L14_Biomech_Properties_Arteries&Veins",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L14_Biomech_Properties_Arteries&Veins"
           ]
         },
         {
@@ -1332,7 +1440,8 @@
           "instructor": "",
           "cards": 192,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L15_Microanatomy_CV"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L15_Microanatomy_CV",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L15_Microanatomy_CV"
           ]
         }
       ]
@@ -1346,7 +1455,8 @@
           "instructor": "",
           "cards": 66,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L37_Cardiac_Imaging"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L37_Cardiac_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L37_Cardiac_Imaging"
           ]
         },
         {
@@ -1355,7 +1465,8 @@
           "instructor": "",
           "cards": 81,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics"
           ]
         },
         {
@@ -1364,7 +1475,8 @@
           "instructor": "",
           "cards": 200,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L20_Iron&Heme_Met1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L20_Iron&Heme_Met1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L20_Iron&Heme_Met1&2"
           ]
         }
       ]
@@ -1378,7 +1490,8 @@
           "instructor": "",
           "cards": 118,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L19_Autoregulation&Neural_Control_Blood_Flow"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L19_Autoregulation&Neural_Control_Blood_Flow",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L19_Autoregulation&Neural_Control_Blood_Flow"
           ]
         },
         {
@@ -1387,7 +1500,8 @@
           "instructor": "",
           "cards": 77,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L28_Reg_Coronary_Blood_Flow"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L28_Reg_Coronary_Blood_Flow",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L28_Reg_Coronary_Blood_Flow"
           ]
         },
         {
@@ -1396,7 +1510,8 @@
           "instructor": "",
           "cards": 170,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L21_Cardiac_EP1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L21_Cardiac_EP1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L21_Cardiac_EP1&2"
           ]
         }
       ]
@@ -1421,7 +1536,8 @@
           "instructor": "",
           "cards": 118,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L24_Cardiac_Muscle_Physio"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L24_Cardiac_Muscle_Physio",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L24_Cardiac_Muscle_Physio"
           ]
         },
         {
@@ -1430,7 +1546,8 @@
           "instructor": "",
           "cards": 135,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L25_Cardiac_Cycle"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L25_Cardiac_Cycle",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L25_Cardiac_Cycle"
           ]
         },
         {
@@ -1439,7 +1556,8 @@
           "instructor": "",
           "cards": 88,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L33_Pericardium&Heart_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L33_Pericardium&Heart_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L33_Pericardium&Heart_EL"
           ]
         },
         {
@@ -1448,7 +1566,8 @@
           "instructor": "",
           "cards": 122,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L22_Clinical_ECG"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L22_Clinical_ECG",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L22_Clinical_ECG"
           ]
         }
       ]
@@ -1462,7 +1581,8 @@
           "instructor": "",
           "cards": 70,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L31_Sickle_Cell_Anemia"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L31_Sickle_Cell_Anemia",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L31_Sickle_Cell_Anemia"
           ]
         },
         {
@@ -1471,7 +1591,8 @@
           "instructor": "",
           "cards": 97,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L26_Baro&ChemoReceptors"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L26_Baro&ChemoReceptors",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L26_Baro&ChemoReceptors"
           ]
         },
         {
@@ -1480,7 +1601,8 @@
           "instructor": "",
           "cards": 248,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L27_Cardiac_Embryo"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L27_Cardiac_Embryo",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L27_Cardiac_Embryo"
           ]
         }
       ]
@@ -1494,7 +1616,8 @@
           "instructor": "",
           "cards": 3,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L29_Case_Based_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L29_Case_Based_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L29_Case_Based_EL"
           ]
         },
         {
@@ -1503,7 +1626,8 @@
           "instructor": "",
           "cards": 131,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L32_Reg_Cardiac_Output1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L32_Reg_Cardiac_Output1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L32_Reg_Cardiac_Output1&2"
           ]
         }
       ]
@@ -1517,7 +1641,8 @@
           "instructor": "",
           "cards": 63,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L39_CV_Problem_Solving"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L39_CV_Problem_Solving",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L39_CV_Problem_Solving"
           ]
         },
         {
@@ -1548,7 +1673,8 @@
           "instructor": "",
           "cards": 37,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System"
           ]
         },
         {
@@ -1557,7 +1683,8 @@
           "instructor": "",
           "cards": 74,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System"
           ]
         },
         {
@@ -1566,7 +1693,8 @@
           "instructor": "",
           "cards": 174,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics"
           ]
         },
         {
@@ -1576,7 +1704,9 @@
           "cards": 245,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab3_Upper_Resp_Tract&Larynx",
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy"
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab3_Upper_Resp_Tract&Larynx",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy"
           ]
         }
       ]
@@ -1590,7 +1720,8 @@
           "instructor": "",
           "cards": 181,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs"
           ]
         },
         {
@@ -1599,7 +1730,8 @@
           "instructor": "",
           "cards": 174,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2"
           ]
         }
       ]
@@ -1624,7 +1756,8 @@
           "instructor": "",
           "cards": 248,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus"
           ]
         },
         {
@@ -1633,7 +1766,8 @@
           "instructor": "",
           "cards": 110,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL"
           ]
         },
         {
@@ -1643,8 +1777,11 @@
           "cards": 315,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab4_Superior_Mediastinum&Lungs",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab4_Superior_Mediastinum&Lungs",
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L05_Pleura_Lungs_Trachea_Bronchi",
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy"
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L05_Pleura_Lungs_Trachea_Bronchi",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy"
           ]
         }
       ]
@@ -1658,7 +1795,8 @@
           "instructor": "",
           "cards": 249,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L11_Mechanics_of_Breathing1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L11_Mechanics_of_Breathing1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L11_Mechanics_of_Breathing1&2"
           ]
         },
         {
@@ -1667,7 +1805,8 @@
           "instructor": "",
           "cards": 224,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L16_Microanatomy_Resp"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L16_Microanatomy_Resp",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L16_Microanatomy_Resp"
           ]
         }
       ]
@@ -1692,7 +1831,8 @@
           "instructor": "",
           "cards": 286,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L15_Lung_Ventilation1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L15_Lung_Ventilation1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L15_Lung_Ventilation1&2"
           ]
         },
         {
@@ -1701,7 +1841,8 @@
           "instructor": "",
           "cards": 75,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L19_Lungs&Pleura_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L19_Lungs&Pleura_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L19_Lungs&Pleura_EL"
           ]
         },
         {
@@ -1710,7 +1851,8 @@
           "instructor": "",
           "cards": 211,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L20_Heart_Sounds"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L20_Heart_Sounds",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L20_Heart_Sounds"
           ]
         }
       ]
@@ -1724,7 +1866,8 @@
           "instructor": "",
           "cards": 322,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L22_Cell_Injury&death"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L22_Cell_Injury&death",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L22_Cell_Injury&death"
           ]
         },
         {
@@ -1733,7 +1876,8 @@
           "instructor": "",
           "cards": 168,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L18_Resp_Embryo"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L18_Resp_Embryo",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L18_Resp_Embryo"
           ]
         }
       ]
@@ -1747,7 +1891,8 @@
           "instructor": "",
           "cards": 105,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L21_Pulm_Imaging"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L21_Pulm_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L21_Pulm_Imaging"
           ]
         },
         {
@@ -1762,7 +1907,8 @@
           "instructor": "",
           "cards": 53,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L26_Resp_Problem_Solving"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L26_Resp_Problem_Solving",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L26_Resp_Problem_Solving"
           ]
         }
       ]
@@ -1776,7 +1922,8 @@
           "instructor": "",
           "cards": 14,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L24_Cell_injury&Death_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L24_Cell_injury&Death_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L24_Cell_injury&Death_EL"
           ]
         },
         {
@@ -1785,7 +1932,8 @@
           "instructor": "",
           "cards": 39,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy"
           ]
         }
       ]
@@ -1810,7 +1958,8 @@
           "instructor": "",
           "cards": 328,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2"
           ]
         },
         {
@@ -1819,7 +1968,8 @@
           "instructor": "",
           "cards": 142,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy"
           ]
         },
         {
@@ -1828,7 +1978,8 @@
           "instructor": "",
           "cards": 86,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging"
           ]
         }
       ]
@@ -1842,7 +1993,8 @@
           "instructor": "",
           "cards": 214,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L09_Tissue_Repair1&2"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L09_Tissue_Repair1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L09_Tissue_Repair1&2"
           ]
         },
         {
@@ -1851,7 +2003,8 @@
           "instructor": "",
           "cards": 6,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L11_Inflammation&Repair_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L11_Inflammation&Repair_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L11_Inflammation&Repair_EL"
           ]
         },
         {
@@ -1860,7 +2013,8 @@
           "instructor": "",
           "cards": 73,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L10_Lung&Posterior_Mediastinum_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L10_Lung&Posterior_Mediastinum_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L10_Lung&Posterior_Mediastinum_EL"
           ]
         },
         {
@@ -1869,7 +2023,8 @@
           "instructor": "",
           "cards": 97,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L07_Cardiopulm_lab"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L07_Cardiopulm_lab",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L07_Cardiopulm_lab"
           ]
         }
       ]
@@ -1883,7 +2038,8 @@
           "instructor": "",
           "cards": 220,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L02_Pulm_Circulation"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L02_Pulm_Circulation",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L02_Pulm_Circulation"
           ]
         },
         {
@@ -1892,7 +2048,8 @@
           "instructor": "",
           "cards": 104,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L05_Heart_Valve_Dysfxn"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L05_Heart_Valve_Dysfxn",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L05_Heart_Valve_Dysfxn"
           ]
         },
         {
@@ -1902,7 +2059,8 @@
           "cards": 42,
           "optional_unlock": true,
           "tags": [
-            "#Morsanki::Year_1::Doctoring::Midterm"
+            "#Morsanki::Year_1::Doctoring::Midterm",
+            "AnkiHub_Optional::Morsanki::Year_1::Doctoring::Midterm"
           ]
         }
       ]
@@ -1916,7 +2074,8 @@
           "instructor": "",
           "cards": 187,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L08_Pulm_Gas_Diffusion&Blood_Transport"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L08_Pulm_Gas_Diffusion&Blood_Transport",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L08_Pulm_Gas_Diffusion&Blood_Transport"
           ]
         },
         {
@@ -1925,7 +2084,8 @@
           "instructor": "",
           "cards": 61,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L12_Inflammation&Repair_Microscopy"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L12_Inflammation&Repair_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L12_Inflammation&Repair_Microscopy"
           ]
         }
       ]
@@ -1950,7 +2110,8 @@
           "instructor": "",
           "cards": 93,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L16_Blood_Micro"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L16_Blood_Micro",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L16_Blood_Micro"
           ]
         },
         {
@@ -1959,7 +2120,8 @@
           "instructor": "",
           "cards": 84,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L15_Intravascular_Bacterial_Infections"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L15_Intravascular_Bacterial_Infections",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L15_Intravascular_Bacterial_Infections"
           ]
         },
         {
@@ -1968,7 +2130,8 @@
           "instructor": "",
           "cards": 119,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L22_Lung_Micro"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L22_Lung_Micro",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L22_Lung_Micro"
           ]
         },
         {
@@ -1977,7 +2140,8 @@
           "instructor": "",
           "cards": 119,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L23_Bacterial_Infections_Resp_Tract"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L23_Bacterial_Infections_Resp_Tract",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L23_Bacterial_Infections_Resp_Tract"
           ]
         }
       ]
@@ -1991,7 +2155,8 @@
           "instructor": "",
           "cards": 74,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L13_Ventilation_Perfusion_Matching"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L13_Ventilation_Perfusion_Matching",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L13_Ventilation_Perfusion_Matching"
           ]
         },
         {
@@ -2000,7 +2165,8 @@
           "instructor": "",
           "cards": 114,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L20_Asthma"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L20_Asthma",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L20_Asthma"
           ]
         }
       ]
@@ -2015,7 +2181,8 @@
           "cards": 142,
           "optional_unlock": true,
           "tags": [
-            "#Morsanki::Year_1::EBCR::Midterm"
+            "#Morsanki::Year_1::EBCR::Midterm",
+            "AnkiHub_Optional::Morsanki::Year_1::EBCR::Midterm"
           ]
         }
       ]
@@ -2029,7 +2196,8 @@
           "instructor": "",
           "cards": 190,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L17_Control_of_Breathing"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L17_Control_of_Breathing",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L17_Control_of_Breathing"
           ]
         },
         {
@@ -2038,7 +2206,8 @@
           "instructor": "",
           "cards": 269,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L14_Disturbance_Blood_Flow"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L14_Disturbance_Blood_Flow",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L14_Disturbance_Blood_Flow"
           ]
         }
       ]
@@ -2052,7 +2221,8 @@
           "instructor": "",
           "cards": 105,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L19_CardioPulm_Imaging"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L19_CardioPulm_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L19_CardioPulm_Imaging"
           ]
         },
         {
@@ -2061,7 +2231,8 @@
           "instructor": "",
           "cards": 86,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L18_Disturbance_of_Blood_Flow_EL"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L18_Disturbance_of_Blood_Flow_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L18_Disturbance_of_Blood_Flow_EL"
           ]
         },
         {
@@ -2070,7 +2241,8 @@
           "instructor": "",
           "cards": 35,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L24_Disturbance_of_Blood_Flow_Microscopy"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L24_Disturbance_of_Blood_Flow_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L24_Disturbance_of_Blood_Flow_Microscopy"
           ]
         }
       ]
@@ -2084,7 +2256,8 @@
           "instructor": "",
           "cards": 80,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L21_ARDS"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L21_ARDS",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L21_ARDS"
           ]
         }
       ]
@@ -2099,7 +2272,8 @@
           "cards": 732,
           "optional_unlock": true,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Anatomy_Practical"
+            "#Morsanki::Year_1::C2_Cardiopulm::Anatomy_Practical",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Anatomy_Practical"
           ]
         }
       ]
