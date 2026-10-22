@@ -1349,10 +1349,10 @@
           "label": "Autonomic Innervation of Thoracic Organs",
           "code": "C2T1L09",
           "instructor": "",
-          "cards": 115,
+          "cards": 81,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics"
           ]
         },
         {
@@ -1463,10 +1463,10 @@
           "label": "Autonomic Regulation of CV System",
           "code": "C2T1L17",
           "instructor": "",
-          "cards": 81,
+          "cards": 115,
           "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics"
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs"
           ]
         },
         {

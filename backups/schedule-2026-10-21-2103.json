@@ -1,0 +1,2282 @@
+{
+  "exams": [
+    {
+      "date": "2026-08-24",
+      "name": "Test 1"
+    },
+    {
+      "date": "2026-09-09",
+      "name": "Mock Anatomy Practical"
+    },
+    {
+      "date": "2026-09-14",
+      "name": "Test 2"
+    },
+    {
+      "date": "2026-09-28",
+      "name": "Anatomy Practical"
+    },
+    {
+      "date": "2026-09-29",
+      "name": "Test 3"
+    },
+    {
+      "date": "2026-10-01",
+      "name": "NBME Final Exam"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Test 1"
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Group Presentations"
+    },
+    {
+      "date": "2026-11-23",
+      "name": "Test 2"
+    },
+    {
+      "date": "2026-12-01",
+      "name": "Semester 1 CCPX"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "EBCR 1 Midterm"
+    },
+    {
+      "date": "2026-12-14",
+      "name": "Anatomy Practical"
+    },
+    {
+      "date": "2026-12-15",
+      "name": "Test 3"
+    },
+    {
+      "date": "2026-12-17",
+      "name": "NBME Final Exam"
+    }
+  ],
+  "unlocks": [
+    {
+      "date": "2026-08-25",
+      "lectures": [
+        {
+          "label": "Cytoskeleton & Cellular Substructures",
+          "code": "C1T2L01",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501227",
+          "cards": 135,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L04_Cytoskeleton&Cellular_Substructures",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L04_Cytoskeleton&Cellular_Substructures"
+          ]
+        },
+        {
+          "label": "Extracellular Matrix",
+          "code": "C1T2L02",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47501415",
+          "cards": 107,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L07_ECM",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L07_ECM"
+          ]
+        },
+        {
+          "label": "Prelab: Axilla",
+          "code": "C1T2L03",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47620233",
+          "cards": 130,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::PreLab3_Axilla",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::PreLab3_Axilla"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "lectures": [
+        {
+          "label": "Connective & Epithelial Tissue",
+          "code": "C1T2L04",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47521305",
+          "cards": 159,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L08_Epithelial_Tissue",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L08_Epithelial_Tissue",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L09_Connective_Tissue",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L09_Connective_Tissue"
+          ]
+        },
+        {
+          "label": "Anatomy Lab 3 — Axilla",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "cards": 223,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "lectures": [
+        {
+          "label": "Early Embryology I",
+          "code": "C1T2L05",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630629",
+          "cards": 169,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+          ]
+        },
+        {
+          "label": "C1T2L05 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 68,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/c6ov4lhqwjey369soelg7xm03htr5mza"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L05_Early_Embryology_I&II",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L05_Early_Embryology_I&II"
+          ]
+        },
+        {
+          "label": "Early Embryology II",
+          "code": "C1T2L06",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433245",
+          "note": "Same cards as the lecture above",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+          ]
+        },
+        {
+          "label": "C1T2L06 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 95,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/df5t4i4m3ycaijlqvk6taqs88am8u0yx"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L06_Early_Embryology_III",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L06_Early_Embryology_III"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "lectures": [
+        {
+          "label": "Early Embryology III",
+          "code": "C1T2L07",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47433241",
+          "note": "Already unlocked Thu, Aug 27",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Early_Dev"
+          ]
+        },
+        {
+          "label": "Prelab: Forearm and Hand",
+          "code": "C1T2L08",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47503549",
+          "cards": 37,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
+          ]
+        },
+        {
+          "label": "C1T2L08 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 238,
+          "optional_unlock": true,
+          "note": "Deck made by Anish",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/dmim6ydlgn8h8o6evj5rn10uj4nmbxho"
+            }
+          ],
+          "query": "tag:#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb -nid:1725748927639,1725748968966,1725749280601,1725749315214,1725749380517",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab4&5_Forearm&Hand&Joints_of_Upper_Limb"
+          ]
+        },
+        {
+          "label": "Postlab EL: Axilla",
+          "code": "C1T2L09",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46776587",
+          "note": "Already unlocked Wed, Aug 26",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::Lab3_Axilla",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Axilla"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "lectures": [
+        {
+          "label": "Diffusion, Osmosis, & Transport Proteins",
+          "code": "C1T2L10",
+          "instructor": "Dominguez Rieg",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47652335",
+          "cards": 64,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L03_Diffusion_Osmosis_Transport_Proteins",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L03_Diffusion_Osmosis_Transport_Proteins"
+          ]
+        },
+        {
+          "label": "Bone & Cartilage",
+          "code": "C1T2L11",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47691323",
+          "cards": 204,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
+          ]
+        },
+        {
+          "label": "Lab – Anterior Forearm & Hand",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "cards": 527,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "lectures": [
+        {
+          "label": "Concepts of Diagnosis & Pathology",
+          "code": "C1T2L12",
+          "instructor": "Kruk",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47700571",
+          "cards": 40,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L20_Cancer_Dx&Path",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L20_Cancer_Dx&Path"
+          ]
+        },
+        {
+          "label": "EL – Breast & Ovarian Cancer, BRCA mutations",
+          "code": "C1T2L13",
+          "instructor": "Kruk",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47701765",
+          "cards": 60,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L17_Breast&Ovarian_Cancer",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L17_Breast&Ovarian_Cancer"
+          ]
+        },
+        {
+          "label": "C1T2L13 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 36,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/wz04gohhz8syhcqaba8vb3yqgxad9x0v"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L13_EL_Breast&Ovarian_Cancer",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L13_EL_Breast&Ovarian_Cancer"
+          ]
+        },
+        {
+          "label": "EL – Lung Cancer",
+          "code": "C1T2L14",
+          "instructor": "Davé",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704931",
+          "cards": 106,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L05_Lung_Cancer_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L05_Lung_Cancer_EL"
+          ]
+        },
+        {
+          "label": "Bone & Cartilage",
+          "code": "C1T2L15",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47691323",
+          "note": "Already unlocked Mon, Aug 31",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L11_Cartilage",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L12_Bone"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "lectures": [
+        {
+          "label": "Skin",
+          "code": "C1T2L16",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704849",
+          "cards": 149,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_Skin",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_Skin"
+          ]
+        },
+        {
+          "label": "Foundations in Cutaneous Pathology",
+          "code": "C1T2L17",
+          "instructor": "Albers",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47704925",
+          "cards": 151,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Cutaneous_Oncology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Cutaneous_Oncology",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L11_Cutaneous_Oncology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L11_Cutaneous_Oncology"
+          ]
+        },
+        {
+          "label": "EL – Melanoma",
+          "code": "C1T2L18",
+          "instructor": "Bharadwaj & Albers",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689747",
+          "cards": 78,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Melanoma_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L06_Melanoma_EL"
+          ]
+        },
+        {
+          "label": "C1T2L18 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 92,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/v65h8i5hlns8k6jykhx9zr3fa3asyhn0"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L18_EL_Melanoma",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L18_EL_Melanoma"
+          ]
+        },
+        {
+          "label": "Musculoskeletal System",
+          "code": "C1T2L19",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47630633",
+          "cards": 93,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_MSK_Embryo",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L09_MSK_Embryo"
+          ]
+        },
+        {
+          "label": "C1T2L19 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 157,
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/ycugxeeuk4ey3jy3r5w151s0ovk63fwr"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L19_MSK_Embryology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L19_MSK_Embryology"
+          ]
+        },
+        {
+          "label": "Lab – Posterior Forearm & Hand",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "note": "Already unlocked Mon, Aug 31",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "lectures": [
+        {
+          "label": "Skeletal Muscle",
+          "code": "C1T2L20",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47755711",
+          "cards": 153,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L02_Muscle_Histo",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L02_Muscle_Histo"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "lectures": [
+        {
+          "label": "EL – Nerve Injuries of Upper Limb",
+          "code": "C1T2L21",
+          "instructor": "Kothari",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47601087",
+          "cards": 97,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/yptssxbym3d1zdlryczq48xlbmx30klq"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L21_EL_Nerve_Injuries_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L21_EL_Nerve_Injuries_of_Upper_Limb"
+          ]
+        },
+        {
+          "label": "Elbow & Wrist Joint",
+          "code": "C1T2L22",
+          "instructor": "Riveros",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47912889",
+          "cards": 100,
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/yi1sqcbpdyq5pe585ukxmwrr66grfnnd"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L22_Elbow&Wrist_Joint",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L22_Elbow&Wrist_Joint"
+          ]
+        },
+        {
+          "label": "Membrane Potential & Ion Channels",
+          "code": "C1T2L23",
+          "instructor": "Noujaim",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078239",
+          "cards": 38,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L17_Membrane_Potentials&Ion_Channels",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L17_Membrane_Potentials&Ion_Channels"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "lectures": [
+        {
+          "label": "Electrical Signaling",
+          "code": "C1T2L24",
+          "instructor": "Noujaim",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078243",
+          "cards": 24,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L18_Electrical_Signaling",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_1::lectures_co28::L18_Electrical_Signaling"
+          ]
+        },
+        {
+          "label": "Skeletal Muscle",
+          "code": "C1T2L25",
+          "instructor": "Scallan",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958331",
+          "cards": 111,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L03_Skeletal_Muscle_Physio",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L03_Skeletal_Muscle_Physio"
+          ]
+        },
+        {
+          "label": "Excitation-Contraction Coupling",
+          "code": "C1T2L26",
+          "instructor": "Scallan",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47958329",
+          "cards": 57,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L04_Excitation_Contraction_Coupling",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L04_Excitation_Contraction_Coupling"
+          ]
+        },
+        {
+          "label": "MOCK ANATOMY PRACTICAL",
+          "code": "",
+          "instructor": "",
+          "optional_unlock": true,
+          "links": [
+            {
+              "label": "Download deck here first",
+              "url": "https://usf.app.box.com/s/w6ebm0j89wvvx98z4onz48osc8ruo60f"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Mock_Practical_co30",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Mock_Practical_co30"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "lectures": [
+        {
+          "label": "Postlab EL – Forearm & Hand",
+          "code": "C1T2L27",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47730497",
+          "note": "Already unlocked Mon, Aug 31",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab4&5_Forearm&Hand&Joints_of_Upper_Limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Forearm&Hand"
+          ]
+        },
+        {
+          "label": "C1T2L27 (UPDATED)",
+          "code": "",
+          "instructor": "",
+          "cards": 39,
+          "optional_unlock": true,
+          "note": "Questions/AnKing focused",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/uxhk04cl95fgg2sjxp7wyeywsa9gi1b4"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L27_EL_Forearm&Hand",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L27_EL_Forearm&Hand"
+          ]
+        },
+        {
+          "label": "EL – Musculoskeletal System",
+          "code": "C1T2L28",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47689773",
+          "cards": 18,
+          "note": "Thanks to Anish for additions!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/a8e77sjwef1pc963fz1xb6a4zw1eavb3"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L28_EL_MSK_Embryology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L28_EL_MSK_Embryology"
+          ]
+        },
+        {
+          "label": "Neuromuscular Junction",
+          "code": "C1T2L29",
+          "instructor": "Crofton",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48007113",
+          "cards": 147,
+          "note": "AnKing cards included",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/3vsb70501ffnvn44mb6crs5ftmyxgg2r"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L29_Neuromuscular_Junction",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co30::L29_Neuromuscular_Junction"
+          ]
+        },
+        {
+          "label": "C1T2L29 (Bernie)",
+          "code": "",
+          "instructor": "",
+          "cards": 102,
+          "optional_unlock": true,
+          "note": "No AnKing, comprehensive for in-house",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/2zjmhow13fbgs12jjqda0c20aigd66lz"
+            }
+          ],
+          "tags": [
+            "C1T2L29"
+          ]
+        },
+        {
+          "label": "C1T2L29 (Anish)",
+          "code": "",
+          "instructor": "",
+          "cards": 90,
+          "optional_unlock": true,
+          "note": "AnKing + Anish's version of cards",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/nue4d9nk9tjw4bkyj8x0658nielidu91"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L10_Neuromuscular_Junction",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L10_Neuromuscular_Junction"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "lectures": [
+        {
+          "label": "TEST 2!!!",
+          "code": "",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "lectures": [
+        {
+          "label": "Introduction to Microbiology",
+          "code": "C1T3L01",
+          "instructor": "Anderson",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001405",
+          "cards": 45,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L17_Medical_Microbio",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L17_Medical_Microbio"
+          ]
+        },
+        {
+          "label": "C1T3L01 (AnKing)",
+          "code": "",
+          "instructor": "",
+          "cards": 37,
+          "optional_unlock": true,
+          "note": "Includes additional AnKing cards (37)",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/46ahgtdpl2btdmgtyf390dcgofwu62h8"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L01_Introduction_to_Microbiology",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L01_Introduction_to_Microbiology"
+          ]
+        },
+        {
+          "label": "Bacterial Pathogenesis",
+          "code": "C1T3L02",
+          "instructor": "Anderson",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001409",
+          "cards": 140,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L18_Bacterial_Pathogenesis",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L18_Bacterial_Pathogenesis"
+          ]
+        },
+        {
+          "label": "Bacterial Flora & Pathogenesis",
+          "code": "C1T3L03",
+          "instructor": "Pross",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043511",
+          "cards": 94,
+          "note": "Updated L03 w/ AnKing cards + more relevance",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/y7s21fxxdwojped1w8h8vn2109kx5re4"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L03_Bacterial_Flora&Pathogenesis",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L03_Bacterial_Flora&Pathogenesis"
+          ]
+        },
+        {
+          "label": "Prelab – Gluteal Region & Posterior Thigh",
+          "code": "C1T3L04",
+          "instructor": "PRERECORDED — Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963649",
+          "cards": 235,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab6_Glutes&Posterior_Thigh",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::PreLab6_Glutes&Posterior_Thigh"
+          ]
+        },
+        {
+          "label": "C1T3L04 (Nathanki)",
+          "code": "",
+          "instructor": "",
+          "cards": 68,
+          "optional_unlock": true,
+          "note": "Nathan's prelab cards (keep IO from OG)",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/qm0ayt8jujcypbeazjtxl1x8ybkb66za"
+            }
+          ],
+          "tags": [
+            "nathanglutepl"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "lectures": [
+        {
+          "label": "EL – High-Impact Bacterial Infections",
+          "code": "C1T3L05",
+          "instructor": "Anderson",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48001407",
+          "cards": 87,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L21_High_Impact_Bacterial_Infections_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L21_High_Impact_Bacterial_Infections_EL"
+          ]
+        },
+        {
+          "label": "Introduction to Immunology & Innate Immune System",
+          "code": "C1T3L06",
+          "instructor": "Pross",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48043547",
+          "cards": 90,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L22_Immunology_Intro&Innate_Immune_Sys",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L22_Immunology_Intro&Innate_Immune_Sys"
+          ]
+        },
+        {
+          "label": "Adaptive Immune System",
+          "code": "C1T3L07",
+          "instructor": "Mohapatra",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48047397",
+          "cards": 130,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L23_Adaptive_Immune_Sys",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L23_Adaptive_Immune_Sys"
+          ]
+        },
+        {
+          "label": "Lymph Nodes & Lymphatic System",
+          "code": "C1T3L08",
+          "instructor": "Wiranowska",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48051943",
+          "cards": 49,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L24_Lymph_Nodes&Lymphatic_Sys",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_1::lectures_co28::L24_Lymph_Nodes&Lymphatic_Sys"
+          ]
+        },
+        {
+          "label": "Lab – Gluteal Region & Posterior Thigh",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47963693",
+          "cards": 382,
+          "note": "Overlaps Tuesday's prelab by 235 cards — 147 new.",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "lectures": [
+        {
+          "label": "MHC & Antigen Presentation",
+          "code": "C1T3L09",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059001",
+          "cards": 130,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L01_MHC",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L01_MHC",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L02_Tumor_Antigen_Presentation",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L02_Tumor_Antigen_Presentation"
+          ]
+        },
+        {
+          "label": "Cytokines & Complement",
+          "code": "C1T3L10",
+          "instructor": "Pross",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48059975",
+          "cards": 172,
+          "note": "Thanks to Anish for making cards!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/ruhzieonyj0g0ua6mcuarp6hyrx7tk1a"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L02_Cytokine_Complement_System",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co28::L02_Cytokine_Complement_System"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "lectures": [
+        {
+          "label": "Introduction to Virology",
+          "code": "C1T3L11",
+          "instructor": "Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083121",
+          "cards": 58,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L14_Virology_Intro",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L14_Virology_Intro"
+          ]
+        },
+        {
+          "label": "EL – High-Impact Viral Infections",
+          "code": "C1T3L12",
+          "instructor": "Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48090425",
+          "cards": 59,
+          "note": "Thank you to Anish for making cards!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/bizxds2zr8wz8y9aysg8k3ut8ryjfwsq"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L12_High_Impact_Viral_Infections",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_3::lectures_co30::L12_High_Impact_Viral_Infections"
+          ]
+        },
+        {
+          "label": "Effector Function of Humoral & Cellular Immune Responses",
+          "code": "C1T3L13",
+          "instructor": "Bahner",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069387",
+          "cards": 123,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L04_Effector_Fxn_in_Tumor_Control",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L04_Effector_Fxn_in_Tumor_Control"
+          ]
+        },
+        {
+          "label": "Immunological Memory",
+          "code": "C1T3L14",
+          "instructor": "Bahner",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48069679",
+          "cards": 66,
+          "note": "Course 5 tag. May not be the best.",
+          "tags": [
+            "#Morsanki::Year_2::C5_Infection&Immunology::Test_1::lectures_co27::L14_Immunological_Memory",
+            "AnkiHub_Optional::Morsanki::Year_2::C5_Infection&Immunology::Test_1::lectures_co27::L14_Immunological_Memory"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "lectures": [
+        {
+          "label": "C1 Anatomy Practical",
+          "cards": 800,
+          "optional_unlock": true,
+          "note": "Download/unsuspend immediately just in case tags get wiped by AnkiHub.",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/k1mfkkjgcwd0yw8rrxttj2jf9peiqbfp"
+            }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Class_of_2030::C1_Practical",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy_Practical::Class_of_2030::C1_Practical"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "lectures": [
+        {
+          "label": "Postlab EL – Gluteal Region & Posterior Thigh",
+          "code": "C1T3L15",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47965449",
+          "note": "Already unlocked in an earlier week",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::Lab6_Glutes&Posterior_Thigh",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::GlutealRegion&PosteriorThigh"
+          ]
+        },
+        {
+          "label": "Prelab – Anterior Thigh & Leg",
+          "code": "C1T3L16",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966469",
+          "cards": 283,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab7_Anterior&Medial_Thigh&Anterolateral_Leg",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab7_Anterior&Medial_Thigh&Anterolateral_Leg"
+          ]
+        },
+        {
+          "label": "C1T3L16 (Nathanki)",
+          "code": "",
+          "instructor": "",
+          "cards": 67,
+          "optional_unlock": true,
+          "note": "Thanks to Nathan for making these cards!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/w2dcply0psguj7phidud6o449t6tff2s"
+            }
+          ],
+          "tags": [
+            "Nathanki::Anterior_Lateral_Leg"
+          ]
+        },
+        {
+          "label": "EL – Diagnostic Testing for Infectious Diseases",
+          "code": "C1T3L17",
+          "instructor": "Anderson & Teng",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48083285",
+          "cards": 29,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L16_Diagnostic_Testing_for_ID",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L16_Diagnostic_Testing_for_ID"
+          ]
+        },
+        {
+          "label": "Concepts of Vaccination and Immunotherapies",
+          "code": "C1T3L18",
+          "instructor": "Seyfang",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48027289",
+          "cards": 104,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L03_Vaccination&Immunotherapies",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::Cancer_Biology::Test_2::lectures_co28::L03_Vaccination&Immunotherapies"
+          ]
+        },
+        {
+          "label": "Lab – Anterior Thigh & Leg",
+          "code": "",
+          "instructor": "Bharadwaj",
+          "cards": 490,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "lectures": [
+        {
+          "label": "Prelab – Posterior Leg & Foot",
+          "code": "C1T3L19",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966845",
+          "cards": 266,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab8_Posterior_Leg&Foot&Joints_of_lower_limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::PreLab8_Posterior_Leg&Foot&Joints_of_lower_limb"
+          ]
+        },
+        {
+          "label": "Radiology Lower Limb",
+          "code": "C1T3L20",
+          "instructor": "Meyer",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078439",
+          "cards": 20,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Radiology_Lower_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_2::lectures_co28::L08_Radiology_Lower_Limb"
+          ]
+        },
+        {
+          "label": "Joints of Lower Limb",
+          "code": "C1T3L21",
+          "instructor": "Riveros",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48097627",
+          "cards": 106,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L08_Joints_of_Lower_Limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L08_Joints_of_Lower_Limb"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "lectures": [
+        {
+          "label": "EL – Ligaments & Tear",
+          "code": "C1T3L22",
+          "instructor": "Remaley & Wiranowska & Prakash",
+          "cards": 93,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L09_Ligaments&Tear",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L09_Ligaments&Tear"
+          ]
+        },
+        {
+          "label": "Postlab EL – Anterior Thigh & Leg",
+          "code": "C1T3L23",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47966487",
+          "note": "Already unlocked Mon, Sep 21",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab7_Anterior&Medial_Thigh&Anterolateral_Leg",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Ant_Med_Thigh&Ankle_Lat_Leg"
+          ]
+        },
+        {
+          "label": "Postlab - Anterior Thigh & Leg (Shivanshu)",
+          "code": "",
+          "instructor": "",
+          "cards": 67,
+          "optional_unlock": true,
+          "note": "Thanks to Shivanshu for making these!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/ryhi0ftv1fwbiaklzyy5m7el878loc19"
+            }
+          ],
+          "tags": [
+            "shivanshuantlab"
+          ]
+        },
+        {
+          "label": "Diseases of the Musculoskeletal System",
+          "code": "C1T3L24",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48004575",
+          "cards": 82,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L12_MSK_Diseases",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L12_MSK_Diseases"
+          ]
+        },
+        {
+          "label": "Lab – Posterior Leg & Foot",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47964115",
+          "cards": 432,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "lectures": [
+        {
+          "label": "EL – Trauma",
+          "code": "C1T3L25",
+          "instructor": "Remaley & Prakash",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/46078417",
+          "cards": 36,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L14_Trauma",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L14_Trauma"
+          ]
+        },
+        {
+          "label": "EL – Osteoarthritis",
+          "code": "C1T3L26",
+          "instructor": "Alsaleh",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48084593",
+          "cards": 56,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L13_Osteoarthritis",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L13_Osteoarthritis"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "lectures": [
+        {
+          "label": "Postlab EL – Posterior Leg & Foot",
+          "code": "C1T3L27",
+          "instructor": "Bharadwaj",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/47967003",
+          "note": "Already unlocked Wed, Sep 23",
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::Lab8_Posterior_Leg&Foot&Joints_of_lower_limb",
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Anatomy::Post_Leg&Foot"
+          ]
+        },
+        {
+          "label": "EL – Nerve Injury of Lower Limb",
+          "code": "C1T3L28",
+          "instructor": "Kothari",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075531",
+          "cards": 74,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L07_Nerve_Injuries_of_Lower_limb",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L07_Nerve_Injuries_of_Lower_limb"
+          ]
+        },
+        {
+          "label": "EL – Muscular Dystrophy",
+          "code": "C1T3L29",
+          "instructor": "Seyfang & Chen",
+          "slides": "https://usflearn.instructure.com/courses/2138158/modules/items/48075333",
+          "cards": 39,
+          "tags": [
+            "#Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L10_Muscular_Dystrophy",
+            "AnkiHub_Optional::Morsanki::Year_1::C1_Canc_Bio_MSK::MSK::Test_3::lectures_co28::L10_Muscular_Dystrophy"
+          ]
+        },
+        {
+          "label": "EL – Immunology Reasoning & Review",
+          "instructor": "Bahner & Pross",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "lectures": [
+        {
+          "label": "ZanKing C1",
+          "optional_unlock": true,
+          "note": "Missed AnKing notes from C1. Thanks to Zain for finding!",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/4inm2qsdg8ewa2u8t5d32qz7d8xh8x7v"
+            }
+          ],
+          "tags": [
+            "zankingc1"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "lectures": [
+        {
+          "label": "Introduction to Cardiopulm",
+          "code": "C2T1L01",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48332945",
+          "tags": []
+        },
+        {
+          "label": "Overview of Circulatory System",
+          "code": "C2T1L02",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48307405",
+          "cards": 122,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L01_Circulatory_System_Overview",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L01_Circulatory_System_Overview"
+          ]
+        },
+        {
+          "label": "Hemodynamics",
+          "code": "C2T1L03",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48310777",
+          "cards": 95,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L10_Hemodynamics",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L10_Hemodynamics"
+          ]
+        },
+        {
+          "label": "Prelab1: Thoracic Wall",
+          "code": "C2T1L04",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48324693",
+          "cards": 160,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab1_Thorax",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab1_Thorax",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L03_Thorax_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L03_Thorax_Anatomy"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "lectures": [
+        {
+          "label": "Plasma Proteins",
+          "code": "C2T1L05",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333539",
+          "cards": 89,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L02_Plasma_Proteins",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L02_Plasma_Proteins"
+          ]
+        },
+        {
+          "label": "Hemoglobin: O2 & CO2 Carrying Properties",
+          "code": "C2T1L06",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48333605",
+          "cards": 116,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L08_Hemoglobin",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L08_Hemoglobin"
+          ]
+        },
+        {
+          "label": "Cellular Elements of Blood",
+          "code": "C2T1L07",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48334505",
+          "cards": 211,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L05_Cellular_Elements_of_Blood",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L05_Cellular_Elements_of_Blood"
+          ]
+        },
+        {
+          "label": "Blood Virtual Microscopy",
+          "code": "",
+          "instructor": "",
+          "cards": 36,
+          "optional_unlock": true,
+          "note": "Thanks to Katryna for finding the tag!",
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L06_Blood_Virtual_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L06_Blood_Virtual_Microscopy"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "lectures": [
+        {
+          "label": "Hemostasis & Thrombosis",
+          "code": "C2T1L08",
+          "instructor": "",
+          "cards": 193,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L07_Hemostasis&Thrombosis",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L07_Hemostasis&Thrombosis"
+          ]
+        },
+        {
+          "label": "Autonomic Innervation of Thoracic Organs",
+          "code": "C2T1L09",
+          "instructor": "",
+          "cards": 115,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L18_Neural_Control_Heart&Lungs"
+          ]
+        },
+        {
+          "label": "Postlab1: Thoracic Wall",
+          "code": "C2T1L10",
+          "instructor": "",
+          "cards": 47,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L36_Thorax_Anatomy_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L36_Thorax_Anatomy_EL"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design I (Diagnosis)",
+          "code": "",
+          "instructor": "",
+          "cards": 19,
+          "tags": [
+            "#Morsanki::Year_1::EBCR::L01_Intro&StudyDesign_Diagnosis",
+            "AnkiHub_Optional::Morsanki::Year_1::EBCR::L01_Intro&StudyDesign_Diagnosis"
+          ]
+        },
+        {
+          "label": "Eicosanoids",
+          "code": "C2T1L11",
+          "instructor": "",
+          "cards": 91,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L09_Eicosanoid_Biosynthesis&Vascular_Reg",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L09_Eicosanoid_Biosynthesis&Vascular_Reg"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "lectures": [
+        {
+          "label": "Coagulation & Platelet Disorders",
+          "code": "C2T1L12",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48155535",
+          "cards": 298,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L12_Coagulation&Platelet_Disorders1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L12_Coagulation&Platelet_Disorders1&2"
+          ]
+        },
+        {
+          "label": "Prelab2: Pericardium & Heart",
+          "code": "C2T1L13",
+          "instructor": "",
+          "cards": 232,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab2_Pericardium&Heart",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::Lab2_Pericardium&Heart",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L13_Pericadium&Heart",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L13_Pericadium&Heart"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "lectures": [
+        {
+          "label": "Biomechanical Properties of Arteries/Veins & Determinants of Blood Pressure",
+          "code": "C2T1L14",
+          "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48320881",
+          "cards": 87,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L14_Biomech_Properties_Arteries&Veins",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L14_Biomech_Properties_Arteries&Veins"
+          ]
+        },
+        {
+          "label": "Microanatomy of CV System",
+          "code": "C2T1L15",
+          "instructor": "",
+          "cards": 192,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L15_Microanatomy_CV",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L15_Microanatomy_CV"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "lectures": [
+        {
+          "label": "Cardiac Imaging",
+          "code": "C2T1L16",
+          "instructor": "",
+          "cards": 66,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L37_Cardiac_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L37_Cardiac_Imaging"
+          ]
+        },
+        {
+          "label": "Autonomic Regulation of CV System",
+          "code": "C2T1L17",
+          "instructor": "",
+          "cards": 81,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L08_Thorax_Autonomics"
+          ]
+        },
+        {
+          "label": "Iron & Heme Metabolism",
+          "code": "C2T1L18",
+          "instructor": "",
+          "cards": 200,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L20_Iron&Heme_Met1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L20_Iron&Heme_Met1&2"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "lectures": [
+        {
+          "label": "Autoregulation & Neural Control of Blood Flow",
+          "code": "C2T1L19",
+          "instructor": "",
+          "cards": 118,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L19_Autoregulation&Neural_Control_Blood_Flow",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L19_Autoregulation&Neural_Control_Blood_Flow"
+          ]
+        },
+        {
+          "label": "Regulation of Coronary Blood Flow",
+          "code": "C2T1L20",
+          "instructor": "",
+          "cards": 77,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L28_Reg_Coronary_Blood_Flow",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L28_Reg_Coronary_Blood_Flow"
+          ]
+        },
+        {
+          "label": "Cardiac Electrophysiology",
+          "code": "C2T1L21",
+          "instructor": "",
+          "cards": 170,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L21_Cardiac_EP1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L21_Cardiac_EP1&2"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design II (Prognosis)",
+          "code": "",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "lectures": [
+        {
+          "label": "Cardiac Muscle Physiology",
+          "code": "C2T1L22",
+          "instructor": "",
+          "cards": 118,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L24_Cardiac_Muscle_Physio",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L24_Cardiac_Muscle_Physio"
+          ]
+        },
+        {
+          "label": "The Cardiac Cycle",
+          "code": "C2T1L23",
+          "instructor": "",
+          "cards": 135,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L25_Cardiac_Cycle",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L25_Cardiac_Cycle"
+          ]
+        },
+        {
+          "label": "Postlab2: Pericardium & Heart",
+          "code": "C2T1L24",
+          "instructor": "",
+          "cards": 88,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L33_Pericardium&Heart_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L33_Pericardium&Heart_EL"
+          ]
+        },
+        {
+          "label": "Clinical ECG",
+          "code": "C2T1L25",
+          "instructor": "",
+          "cards": 122,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L22_Clinical_ECG",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L22_Clinical_ECG"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "lectures": [
+        {
+          "label": "EL: Sickle Cell Disease",
+          "code": "C2T1L26",
+          "instructor": "",
+          "cards": 70,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L31_Sickle_Cell_Anemia",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L31_Sickle_Cell_Anemia"
+          ]
+        },
+        {
+          "label": "Baroreceptor & Chemoreceptor Regulation",
+          "code": "C2T1L27",
+          "instructor": "",
+          "cards": 97,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L26_Baro&ChemoReceptors",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L26_Baro&ChemoReceptors"
+          ]
+        },
+        {
+          "label": "Development of Cardiovascular System",
+          "code": "C2T1L28",
+          "instructor": "",
+          "cards": 248,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L27_Cardiac_Embryo",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L27_Cardiac_Embryo"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "lectures": [
+        {
+          "label": "EL: Syncope & Orthostatic Hypotension",
+          "code": "C2T1L29",
+          "instructor": "",
+          "cards": 3,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L29_Case_Based_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L29_Case_Based_EL"
+          ]
+        },
+        {
+          "label": "EL: Regulation of Cardiac Output",
+          "code": "C2T1L30",
+          "instructor": "",
+          "cards": 131,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L32_Reg_Cardiac_Output1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L32_Reg_Cardiac_Output1&2"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "lectures": [
+        {
+          "label": "EL: Circulation Physiology",
+          "code": "C2T1L31",
+          "instructor": "",
+          "cards": 63,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L39_CV_Problem_Solving",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L39_CV_Problem_Solving"
+          ]
+        },
+        {
+          "label": "EL: Development of Cardiovascular System",
+          "code": "C2T1L32",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design IIIa (Therapy)",
+          "code": "",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "lectures": [
+        {
+          "label": "Overview of Pulmonary System",
+          "code": "C2T2L01",
+          "instructor": "",
+          "cards": 37,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System"
+          ]
+        },
+        {
+          "label": "Autonomic Regulation of the Respiratory System",
+          "code": "C2T2L02",
+          "instructor": "",
+          "cards": 74,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System"
+          ]
+        },
+        {
+          "label": "Overview of Lymphatic System",
+          "code": "C2T2L03",
+          "instructor": "",
+          "cards": 174,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics"
+          ]
+        },
+        {
+          "label": "Prelab3: Nasal Cavity & Larynx",
+          "code": "C2T2L04",
+          "instructor": "",
+          "cards": 245,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab3_Upper_Resp_Tract&Larynx",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab3_Upper_Resp_Tract&Larynx",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "lectures": [
+        {
+          "label": "Microanatomy of Lymphoid Tissues & Organs",
+          "code": "C2T2L05",
+          "instructor": "",
+          "cards": 181,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs"
+          ]
+        },
+        {
+          "label": "Microcirculation",
+          "code": "C2T2L06",
+          "instructor": "",
+          "cards": 174,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "lectures": [
+        {
+          "label": "Fundamental Concepts of Study Design IIIb (Therapy)",
+          "code": "",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "lectures": [
+        {
+          "label": "Hematopoiesis, Bone Marrow, & Thymus",
+          "code": "C2T2L07",
+          "instructor": "",
+          "cards": 248,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus"
+          ]
+        },
+        {
+          "label": "Postlab3: Nasal Cavity & Larynx",
+          "code": "C2T2L08",
+          "instructor": "",
+          "cards": 110,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL"
+          ]
+        },
+        {
+          "label": "Prelab4: Pleura & Lungs",
+          "code": "C2T2L09",
+          "instructor": "",
+          "cards": 315,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab4_Superior_Mediastinum&Lungs",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab4_Superior_Mediastinum&Lungs",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L05_Pleura_Lungs_Trachea_Bronchi",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L05_Pleura_Lungs_Trachea_Bronchi",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "lectures": [
+        {
+          "label": "Mechanics of Breathing & Lung Volumes",
+          "code": "C2T2L10",
+          "instructor": "",
+          "cards": 249,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L11_Mechanics_of_Breathing1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L11_Mechanics_of_Breathing1&2"
+          ]
+        },
+        {
+          "label": "Microanatomy of Respiratory System",
+          "code": "C2T2L11",
+          "instructor": "",
+          "cards": 224,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L16_Microanatomy_Resp",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L16_Microanatomy_Resp"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "lectures": [
+        {
+          "label": "Principles of Research Synthesis",
+          "code": "",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "lectures": [
+        {
+          "label": "Lung Ventilation",
+          "code": "C2T2L12",
+          "instructor": "",
+          "cards": 286,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L15_Lung_Ventilation1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L15_Lung_Ventilation1&2"
+          ]
+        },
+        {
+          "label": "Postlab4: Pleura & Lungs",
+          "code": "C2T2L13",
+          "instructor": "",
+          "cards": 75,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L19_Lungs&Pleura_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L19_Lungs&Pleura_EL"
+          ]
+        },
+        {
+          "label": "Clinical Heart Sounds",
+          "code": "C2T2L14",
+          "instructor": "",
+          "cards": 211,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L20_Heart_Sounds",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L20_Heart_Sounds"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "lectures": [
+        {
+          "label": "Cell Injury & Death",
+          "code": "C2T2L15",
+          "instructor": "",
+          "cards": 322,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L22_Cell_Injury&death",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L22_Cell_Injury&death"
+          ]
+        },
+        {
+          "label": "Development of Respiratory System",
+          "code": "C2T2L16",
+          "instructor": "",
+          "cards": 168,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L18_Resp_Embryo",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L18_Resp_Embryo"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "lectures": [
+        {
+          "label": "Pulmonary Imaging",
+          "code": "C2T2L17",
+          "instructor": "",
+          "cards": 105,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L21_Pulm_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L21_Pulm_Imaging"
+          ]
+        },
+        {
+          "label": "EL: Development of Respiratory System",
+          "code": "C2T2L18",
+          "instructor": "",
+          "tags": []
+        },
+        {
+          "label": "EL: Respiratory Physiology",
+          "code": "C2T2L19",
+          "instructor": "",
+          "cards": 53,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L26_Resp_Problem_Solving",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L26_Resp_Problem_Solving"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "lectures": [
+        {
+          "label": "EL: Cell Injury & Death",
+          "code": "C2T2L20",
+          "instructor": "",
+          "cards": 14,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L24_Cell_injury&Death_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L24_Cell_injury&Death_EL"
+          ]
+        },
+        {
+          "label": "VM Lab -- Cell Injury & Death",
+          "code": "C2T2L21",
+          "instructor": "",
+          "cards": 39,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "lectures": [
+        {
+          "label": "Basic Biostatistics I",
+          "code": "",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "lectures": [
+        {
+          "label": "Inflammation",
+          "code": "C2T3L01",
+          "instructor": "",
+          "cards": 328,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2"
+          ]
+        },
+        {
+          "label": "Prelab5: Posterior Mediastinum",
+          "code": "C2T3L02",
+          "instructor": "",
+          "cards": 142,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy"
+          ]
+        },
+        {
+          "label": "Vascular Imaging",
+          "code": "C2T3L03",
+          "instructor": "",
+          "cards": 86,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "lectures": [
+        {
+          "label": "Tissue Repair",
+          "code": "C2T3L04",
+          "instructor": "",
+          "cards": 214,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L09_Tissue_Repair1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L09_Tissue_Repair1&2"
+          ]
+        },
+        {
+          "label": "EL: Inflammation & Repair",
+          "code": "C2T3L05",
+          "instructor": "",
+          "cards": 6,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L11_Inflammation&Repair_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L11_Inflammation&Repair_EL"
+          ]
+        },
+        {
+          "label": "Postlab5: Posterior Mediastinum",
+          "code": "C2T3L06",
+          "instructor": "",
+          "cards": 73,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L10_Lung&Posterior_Mediastinum_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L10_Lung&Posterior_Mediastinum_EL"
+          ]
+        },
+        {
+          "label": "CardioPulm Lab",
+          "code": "",
+          "instructor": "",
+          "cards": 97,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L07_Cardiopulm_lab",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L07_Cardiopulm_lab"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "lectures": [
+        {
+          "label": "Pulmonary Circulation",
+          "code": "C2T3L07",
+          "instructor": "",
+          "cards": 220,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L02_Pulm_Circulation",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L02_Pulm_Circulation"
+          ]
+        },
+        {
+          "label": "EL: Heart Valve Dysfunction",
+          "code": "C2T3L08",
+          "instructor": "",
+          "cards": 104,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L05_Heart_Valve_Dysfxn",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L05_Heart_Valve_Dysfxn"
+          ]
+        },
+        {
+          "label": "Semester 1 CCPX",
+          "code": "",
+          "instructor": "",
+          "cards": 42,
+          "optional_unlock": true,
+          "tags": [
+            "#Morsanki::Year_1::Doctoring::Midterm",
+            "AnkiHub_Optional::Morsanki::Year_1::Doctoring::Midterm"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "lectures": [
+        {
+          "label": "Pulmonary Gas Diffusion & Blood Transport",
+          "code": "C2T3L09",
+          "instructor": "",
+          "cards": 187,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L08_Pulm_Gas_Diffusion&Blood_Transport",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L08_Pulm_Gas_Diffusion&Blood_Transport"
+          ]
+        },
+        {
+          "label": "VM Lab -- Inflammation & Repair",
+          "code": "C2T3L10",
+          "instructor": "",
+          "cards": 61,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L12_Inflammation&Repair_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L12_Inflammation&Repair_Microscopy"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "lectures": [
+        {
+          "label": "Basic Biostatistics II",
+          "code": "",
+          "instructor": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "lectures": [
+        {
+          "label": "Blood Microbiology",
+          "code": "C2T3L11",
+          "instructor": "",
+          "cards": 93,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L16_Blood_Micro",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L16_Blood_Micro"
+          ]
+        },
+        {
+          "label": "Bacteremia & Intravascular Bacterial Infections",
+          "code": "C2T3L12",
+          "instructor": "",
+          "cards": 84,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L15_Intravascular_Bacterial_Infections",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L15_Intravascular_Bacterial_Infections"
+          ]
+        },
+        {
+          "label": "Microbiology of the Lung",
+          "code": "C2T3L13",
+          "instructor": "",
+          "cards": 119,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L22_Lung_Micro",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L22_Lung_Micro"
+          ]
+        },
+        {
+          "label": "Bacterial Infections of Respiratory Tract",
+          "code": "C2T3L14",
+          "instructor": "",
+          "cards": 119,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L23_Bacterial_Infections_Resp_Tract",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L23_Bacterial_Infections_Resp_Tract"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "lectures": [
+        {
+          "label": "Ventilation-Perfusion Matching",
+          "code": "C2T3L15",
+          "instructor": "",
+          "cards": 74,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L13_Ventilation_Perfusion_Matching",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L13_Ventilation_Perfusion_Matching"
+          ]
+        },
+        {
+          "label": "Molecular & Cellular Aspects of Asthma",
+          "code": "C2T3L16",
+          "instructor": "",
+          "cards": 114,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L20_Asthma",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L20_Asthma"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "lectures": [
+        {
+          "label": "EBCR 1 Midterm",
+          "code": "",
+          "instructor": "",
+          "cards": 142,
+          "optional_unlock": true,
+          "tags": [
+            "#Morsanki::Year_1::EBCR::Midterm",
+            "AnkiHub_Optional::Morsanki::Year_1::EBCR::Midterm"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "lectures": [
+        {
+          "label": "Control of Breathing",
+          "code": "C2T3L17",
+          "instructor": "",
+          "cards": 190,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L17_Control_of_Breathing",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L17_Control_of_Breathing"
+          ]
+        },
+        {
+          "label": "Disturbances of Blood Flow",
+          "code": "C2T3L18",
+          "instructor": "",
+          "cards": 269,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L14_Disturbance_Blood_Flow",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L14_Disturbance_Blood_Flow"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "lectures": [
+        {
+          "label": "EL: Clinical Correlations",
+          "code": "C2T3L19",
+          "instructor": "",
+          "cards": 105,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L19_CardioPulm_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L19_CardioPulm_Imaging"
+          ]
+        },
+        {
+          "label": "EL: Disturbances of Blood Flow",
+          "code": "C2T3L20",
+          "instructor": "",
+          "cards": 86,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L18_Disturbance_of_Blood_Flow_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L18_Disturbance_of_Blood_Flow_EL"
+          ]
+        },
+        {
+          "label": "VM Lab -- Disturbances of Blood Flow",
+          "code": "C2T3L21",
+          "instructor": "",
+          "cards": 35,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L24_Disturbance_of_Blood_Flow_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L24_Disturbance_of_Blood_Flow_Microscopy"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "lectures": [
+        {
+          "label": "EL: ARDS",
+          "code": "C2T3L22",
+          "instructor": "",
+          "cards": 80,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L21_ARDS",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L21_ARDS"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "lectures": [
+        {
+          "label": "Anatomy Practical",
+          "code": "",
+          "instructor": "",
+          "cards": 732,
+          "optional_unlock": true,
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Anatomy_Practical",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Anatomy_Practical"
+          ]
+        }
+      ]
+    }
+  ]
+}
