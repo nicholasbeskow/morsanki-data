@@ -1621,6 +1621,25 @@
           ]
         },
         {
+          "label": "C2T1L29 (Nick)",
+          "code": "",
+          "instructor": "",
+          "cards": 23,
+          "optional_unlock": true,
+          "note": "Claude generated deck",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/5w0tm9t2jjrpuixr491hvkzg5vn6jlyz"
+            }
+          ],
+          "query": "tag:ManhattanProject::C2::T1::L29_Syncope_and_Orthostatic_Hypotension OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L29_Syncope_and_Orthostatic_Hypotension",
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L29_Case_Based_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_1::lectures_co28::L29_Case_Based_EL"
+          ]
+        },
+        {
           "label": "EL: Regulation of Cardiac Output",
           "code": "C2T1L30",
           "instructor": "",
