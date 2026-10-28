@@ -1669,6 +1669,22 @@
           "code": "C2T1L32",
           "instructor": "",
           "tags": []
+        },
+        {
+          "label": "C2T1L32 (Nick)",
+          "code": "",
+          "instructor": "",
+          "cards": 76,
+          "optional_unlock": true,
+          "note": "Claude generated deck",
+          "links": [
+            {
+              "label": "Download here first",
+              "url": "https://usf.box.com/s/mi40zjwcyop1j6ur4nayabqq1p0xs924"
+            }
+          ],
+          "query": "tag:ManhattanProject::C2::T1::L32_Development_of_Cardiovascular_System OR tag:AnkiHub_Optional::Manhattanki::C2::T1::L32_Development_of_Cardiovascular_System",
+          "tags": []
         }
       ]
     },
