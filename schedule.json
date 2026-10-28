@@ -1668,12 +1668,6 @@
           "label": "EL: Development of Cardiovascular System",
           "code": "C2T1L32",
           "instructor": "",
-          "tags": []
-        },
-        {
-          "label": "C2T1L32 (Nick)",
-          "code": "",
-          "instructor": "",
           "cards": 76,
           "optional_unlock": true,
           "note": "Claude generated deck",
