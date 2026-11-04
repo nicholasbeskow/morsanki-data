@@ -1777,6 +1777,18 @@
           ]
         },
         {
+          "label": "Lymphoid Virtual Microscopy",
+          "code": "",
+          "instructor": "",
+          "cards": 19,
+          "optional_unlock": true,
+          "note": "Goes with C2T2L05. Thanks again to Katryna for finding this tag!",
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L04_Lymphoid_Virtual_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L04_Lymphoid_Virtual_Microscopy"
+          ]
+        },
+        {
           "label": "Microcirculation",
           "code": "C2T2L06",
           "instructor": "",
