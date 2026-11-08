@@ -1861,12 +1861,8 @@
           ],
           "links": [
             {
-              "label": "Lecture recording (2024)",
-              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82eb74df-58fe-4859-8aa0-b20900de15c6"
-            },
-            {
-              "label": "Virtual microscopy EL recording (2024)",
-              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89770cda-5b7c-4e02-a3a4-b20900de34be"
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aeb4f3ab-dcd2-4952-9df7-b4fa01618454"
             }
           ]
         },
@@ -1878,6 +1874,12 @@
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL",
             "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL"
+          ],
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26693bdd-9b5f-42de-98c0-b4fa0161845b"
+            }
           ]
         },
         {
@@ -1892,6 +1894,12 @@
             "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L05_Pleura_Lungs_Trachea_Bronchi",
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy",
             "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy"
+          ],
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c743730-5205-40f3-9681-b4fa0161845e"
+            }
           ]
         }
       ]
