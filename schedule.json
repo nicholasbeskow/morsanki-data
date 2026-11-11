@@ -1723,66 +1723,70 @@
           "label": "Overview of Pulmonary System",
           "code": "C2T2L01",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48502193",
           "cards": 37,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ff7ad19-2952-465c-aeb9-b4e100e4b924"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L00_Overview_Pulm_System"
           ]
         },
         {
           "label": "Autonomic Regulation of the Respiratory System",
           "code": "C2T2L02",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48502219",
           "cards": 74,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d82583f-3080-4730-a25b-b4e100e4d052"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L07_Autonom_Reg_Resp_System"
           ]
         },
         {
           "label": "Overview of Lymphatic System",
           "code": "C2T2L03",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48508003",
           "cards": 174,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6c337cf-08f0-4ded-931e-b4e100e4f60f"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L01_Anatomy_Lymphatics"
           ]
         },
         {
           "label": "Prelab3: Nasal Cavity & Larynx",
           "code": "C2T2L04",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48508853",
           "cards": 245,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab3_Upper_Resp_Tract&Larynx",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab3_Upper_Resp_Tract&Larynx",
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94a52dab-568b-470c-9d48-b4e100e50c9a"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab3_Upper_Resp_Tract&Larynx",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab3_Upper_Resp_Tract&Larynx",
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L02_Upper_Resp_Anatomy"
           ]
         }
       ]
@@ -1794,16 +1798,17 @@
           "label": "Microanatomy of Lymphoid Tissues & Organs",
           "code": "C2T2L05",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48509747",
           "cards": 181,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bba6ffd3-457a-4162-a9a7-b4e100e58195"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L03_MIcroanatomy_Lymphoid_Tissues&Organs"
           ]
         },
         {
@@ -1822,16 +1827,17 @@
           "label": "Microcirculation",
           "code": "C2T2L06",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48509267",
           "cards": 174,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2"
-          ],
           "links": [
             {
               "label": "Lecture recording (2025)",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb9fe671-ffa7-4433-afbd-b4f6015329b2"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L06_Microcirculation1&2"
           ]
         }
       ]
@@ -1854,39 +1860,48 @@
           "label": "Hematopoiesis, Bone Marrow, & Thymus",
           "code": "C2T2L07",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48532711",
           "cards": 248,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aeb4f3ab-dcd2-4952-9df7-b4fa01618454"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L12_Hematopoiesis_BoneMarrow_Thymus"
           ]
         },
         {
           "label": "Postlab3: Nasal Cavity & Larynx",
           "code": "C2T2L08",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48536451",
           "cards": 110,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26693bdd-9b5f-42de-98c0-b4fa0161845b"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L09_Upper_Resp_EL"
           ]
         },
         {
           "label": "Prelab4: Pleura & Lungs",
           "code": "C2T2L09",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48536207",
           "cards": 315,
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c743730-5205-40f3-9681-b4fa0161845e"
+            }
+          ],
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab4_Superior_Mediastinum&Lungs",
             "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::Lab4_Superior_Mediastinum&Lungs",
@@ -1894,12 +1909,6 @@
             "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L05_Pleura_Lungs_Trachea_Bronchi",
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy",
             "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L10_Lower_Resp_Anatomy"
-          ],
-          "links": [
-            {
-              "label": "Lecture recording",
-              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c743730-5205-40f3-9681-b4fa0161845e"
-            }
           ]
         }
       ]
@@ -1911,6 +1920,7 @@
           "label": "Mechanics of Breathing & Lung Volumes",
           "code": "C2T2L10",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48562393",
           "cards": 249,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L11_Mechanics_of_Breathing1&2",
@@ -1921,6 +1931,7 @@
           "label": "Microanatomy of Respiratory System",
           "code": "C2T2L11",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48557675",
           "cards": 224,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L16_Microanatomy_Resp",
@@ -1947,6 +1958,7 @@
           "label": "Lung Ventilation",
           "code": "C2T2L12",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550945",
           "cards": 286,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L15_Lung_Ventilation1&2",
@@ -1957,6 +1969,7 @@
           "label": "Postlab4: Pleura & Lungs",
           "code": "C2T2L13",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48550573",
           "cards": 75,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L19_Lungs&Pleura_EL",
@@ -1992,6 +2005,7 @@
           "label": "Development of Respiratory System",
           "code": "C2T2L16",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440739",
           "cards": 168,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L18_Resp_Embryo",
@@ -2017,12 +2031,14 @@
           "label": "EL: Development of Respiratory System",
           "code": "C2T2L18",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440743",
           "tags": []
         },
         {
           "label": "EL: Respiratory Physiology",
           "code": "C2T2L19",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48406489",
           "cards": 53,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L26_Resp_Problem_Solving",
