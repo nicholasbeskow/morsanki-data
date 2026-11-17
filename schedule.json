@@ -2083,7 +2083,13 @@
           "code": "C2T2L18",
           "instructor": "",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48440743",
-          "tags": []
+          "tags": [],
+          "links": [
+            {
+              "label": "Lecture recording",
+              "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84195b5a-88ff-48bf-a77a-b4f1011efa09"
+            }
+          ]
         },
         {
           "label": "EL: Respiratory Physiology",
