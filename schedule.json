@@ -2135,15 +2135,15 @@
           "code": "C2T2L21",
           "instructor": "",
           "cards": 39,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf56df88-3455-439c-b255-b4f1011f6c16"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_2::lectures_co28::L25_Cell_Injury&Death_Microscopy"
           ]
         }
       ]
@@ -2166,6 +2166,7 @@
           "label": "Inflammation",
           "code": "C2T3L01",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48718365",
           "cards": 328,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2",
