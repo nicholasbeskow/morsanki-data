@@ -2168,31 +2168,32 @@
           "instructor": "",
           "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48718365",
           "cards": 328,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ddf5c9bc-ea01-4e4d-bfca-b4e100e677d6"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L06_Inflammation1&2"
           ]
         },
         {
           "label": "Prelab5: Posterior Mediastinum",
           "code": "C2T3L02",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48728621",
           "cards": 142,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a5e74e1-7465-487a-ab7b-b4e100e69c6a"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L01_Posterior_Mediastinum_Anatomy"
           ]
         },
         {
@@ -2200,15 +2201,15 @@
           "code": "C2T3L03",
           "instructor": "",
           "cards": 86,
-          "tags": [
-            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging",
-            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging"
-          ],
           "links": [
             {
               "label": "Lecture recording",
               "url": "https://usfondemand.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa8c85ba-6715-4a2c-a06f-b4e100e6d1c5"
             }
+          ],
+          "tags": [
+            "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging",
+            "AnkiHub_Optional::Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L03_Vascular_Imaging"
           ]
         }
       ]
@@ -2240,6 +2241,7 @@
           "label": "Postlab5: Posterior Mediastinum",
           "code": "C2T3L06",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48729097",
           "cards": 73,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L10_Lung&Posterior_Mediastinum_EL",
@@ -2347,6 +2349,7 @@
           "label": "Bacteremia & Intravascular Bacterial Infections",
           "code": "C2T3L12",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48731393",
           "cards": 84,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L15_Intravascular_Bacterial_Infections",
@@ -2357,6 +2360,7 @@
           "label": "Microbiology of the Lung",
           "code": "C2T3L13",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48731397",
           "cards": 119,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L22_Lung_Micro",
@@ -2367,6 +2371,7 @@
           "label": "Bacterial Infections of Respiratory Tract",
           "code": "C2T3L14",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48731399",
           "cards": 119,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L23_Bacterial_Infections_Resp_Tract",
