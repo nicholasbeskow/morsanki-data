@@ -2221,6 +2221,7 @@
           "label": "Tissue Repair",
           "code": "C2T3L04",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48769095",
           "cards": 214,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L09_Tissue_Repair1&2",
@@ -2231,6 +2232,7 @@
           "label": "EL: Inflammation & Repair",
           "code": "C2T3L05",
           "instructor": "",
+          "slides": "https://usflearn.instructure.com/courses/2138152/modules/items/48769129",
           "cards": 6,
           "tags": [
             "#Morsanki::Year_1::C2_Cardiopulm::Test_3::lectures_co28::L11_Inflammation&Repair_EL",
